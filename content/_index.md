@@ -3,7 +3,7 @@ title: Wiki de Umbral.
 enableToc: false
 ---
 
-![Landing](/content/notes/images/Landing.jpg)
+![[/notes/images/Landing.jpg]]
 
 # **El Umbral**
 
@@ -15,7 +15,7 @@ El Umbral guarda consigo secretos mucho mayores. Parece tratarse de una magia mu
 
 El Origen del Umbral es desconocido. Aquellos que alguna vez han estudiado el Umbral lo han situado más allá del tiempo mismo. Hay quien dice que incluso fue lo que trajo la Magia al Mundo. Los misterios de su origen son tantos como el lugar donde está situado, [Valle del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1pdt5b0018037c6ke1wqbt/) en un lugar cercano al centro de [Levaryck](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwl6ccs4000a036cbm61llf5/).
 
-Cuando [[Viridio]] encontró el Umbral gracias a su Magia se unió a [Cobalto](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzwwj000v036ckhxi3v7y/) y [Luma](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r21k10015036c02dzbxak/) en su búsqueda. Una vez llegaron allí, [Lila](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r1pw90010036c4jitdelk/) lo había cruzado. Juntos construyeron la Ciudadela y encerraron la [Primera Semilla](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9ubso5005d036clcfradz4/) en el pentágono de roca, lo que sería conocido como el Umbral desde entonces.
+Cuando [[Habitantes/Viridio]] encontró el Umbral gracias a su Magia se unió a [Cobalto](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzwwj000v036ckhxi3v7y/) y [Luma](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r21k10015036c02dzbxak/) en su búsqueda. Una vez llegaron allí, [Lila](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r1pw90010036c4jitdelk/) lo había cruzado. Juntos construyeron la Ciudadela y encerraron la [Primera Semilla](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9ubso5005d036clcfradz4/) en el pentágono de roca, lo que sería conocido como el Umbral desde entonces.
 
 Alrededor de este lugar probaron, investigaron y averiguaron su funcionamiento. Construyeron allí [La Ciudadela del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1plko8001p037c854lyoys/), una blanca fortaleza en lo alto de una colina, refulgente y brillante. Fue el centro de toda civilización hasta que desapareció.
 
