@@ -3,7 +3,7 @@ title: "Viridio"
 tags: habitantes, umbral, maestros, magos
 ---
 > _Lo juro por lo que más amo en el mundo; por Cobalto, por Lila, por Luma. Lo juro por el Umbral" - Viridio_
-![[/notes/images/Viridio.png]]
+![](notes/images/Viridio.png)
 
 **_Viridio fue uno de los_** [Cuatro Guardianes del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzav8000n036cj53bcu47/) **_en su creación hace 1000 años, y actualmente, el Maestro Mago de la Hermandad._** _Se trata de un hombre anciano, encorvado y delgado, de largos cabellos greñosos y barbas desaliñadas con algunas ramas y hojas pendiendo de ellas. Viste con una larga túnica verde y ropajes sencillos._
 
