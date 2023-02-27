@@ -3,7 +3,7 @@ title: Wiki de Umbral.
 enableToc: false
 ---
 
-![Landing](/content/notes/images/Landing.jpg)
+![Landing](content/notes/images/Landing.jpg)
 
 # **El Umbral**
 
