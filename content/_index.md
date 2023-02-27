@@ -1,29 +1,57 @@
 ---
-title: 🪴 Quartz 3.
+title: Wiki de Umbral.
 enableToc: false
 ---
 
-Hola mundo!
+# **El Umbral**
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+El Umbral es un místico portal arcano, una Puerta a todos los lugares. Desde él, es posible acceder a todos los rincones del Mundo y de todos los Universos.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+El Umbral guarda consigo secretos mucho mayores. Parece tratarse de una magia mucho más primigenia que el uso de los conjuros, mucho más trascendental que divinidades o planos. El Umbral es una puerta, un éter conectado a todo punto del espacio… y quizá del tiempo.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+# Origen
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+El Origen del Umbral es desconocido. Aquellos que alguna vez han estudiado el Umbral lo han situado más allá del tiempo mismo. Hay quien dice que incluso fue lo que trajo la Magia al Mundo. Los misterios de su origen son tantos como el lugar donde está situado, [Valle del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1pdt5b0018037c6ke1wqbt/) en un lugar cercano al centro de [Levaryck](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwl6ccs4000a036cbm61llf5/).
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Cuando [Viridio](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r297t001a036cf0z8y5d0/) encontró el Umbral gracias a su Magia se unió a [Cobalto](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzwwj000v036ckhxi3v7y/) y [Luma](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r21k10015036c02dzbxak/) en su búsqueda. Una vez llegaron allí, [Lila](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r1pw90010036c4jitdelk/) lo había cruzado. Juntos construyeron la Ciudadela y encerraron la [Primera Semilla](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9ubso5005d036clcfradz4/) en el pentágono de roca, lo que sería conocido como el Umbral desde entonces.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Alrededor de este lugar probaron, investigaron y averiguaron su funcionamiento. Construyeron allí [La Ciudadela del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1plko8001p037c854lyoys/), una blanca fortaleza en lo alto de una colina, refulgente y brillante. Fue el centro de toda civilización hasta que desapareció.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+# Funcionamiento
 
+Dominado a la perfección, el Umbral permite el teletransporte absoluto; es decir, viajar desde cualquier rincón del mundo a cualquier rincón de cualquier mundo. Sin embargo, debido a la falta de comprensión del mismo, actualmente su poder es muy limitado.
+
+-   Para atravesar el Umbral, se debe primero establecer el vínculo mediante un grabado en Lenguaje Arcano que establezca el vínculo.
+    
+    -   El vínculo es difícil de establecer, y pocas veces se puede colocar dos veces seguidas. Por ello, una vez se ha viajado a un lugar no puede volver a viajarse rápidamente. Dicen que esto se debe a que debe recalcularse teniendo en cuenta rotación y traslación de Levaryck.
+        
+-   Después, debe lanzarse el Conjuro de Apertura, que depende de la Seguridad y Voluntad de quien lo lanza.
+    
+    -   El Umbral permanece abierto treinta segundos.
+        
+    -   Un fallo en el conjuro puede enviar a quien lo atraviese a otro Universo u otro lugar, o en condiciones lamentables.
+        
+    -   El Conjuro puede grabarse en un pergamino que debe leerse en voz alta. En caso de que sea así, no obstante, el texto del pergamino debe estar estrechamente vinculado con la Conexión.
+        
+        -   El pergamino se destruye tras el uso, consumido por la magia del Umbral. Esto es independiente al material empleado.
+            
+-   Para volver a través del Umbral, debe volverse al mismo emplazamiento donde el Umbral dejó a uno y volver a pronunciar el Conjuro o leer el Pergamino.
+    
+    -   El Umbral se abre durante treinta segundos.
+        
+    -   Tras cierto tiempo la Conexión se rompe, y no resulta posible volver a través del Umbral.
+        
+-   Para volver exactamente al lugar de origen, es necesario tener una Conexión con el Umbral, ya sea un grabado conjurado de la misma o un vínculo.
+    
+    -   Entrar en el Umbral sin una Conexión o sin haber establecido el Vínculo enviará a quien lo atraviese a un lugar completamente aleatorio, de Levarick u otro lugar del [Multiverso](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx0w2ji9000j036cusjioq43/).
+        
+    -   Los brazaletes que portan el Glifo permiten el retorno, ya que están vinculados a la Conexión, pero es posible vincularse de otras maneras (ej. Galatea grabó el glifo en su brazo en cuanto lo vio).
+        
+        -   Sin embargo, atravesar un Umbral diferente no tiene por qué activar la vinculación del brazalete. Se desconoce la causa.
+            
+
+Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras, como sugirió [Galatea, la Herrera Legendaria](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwj80tu3000b036cynatedfq/).
+
+> _¿Brazalete? ¿Ahora funciona así? - Galatea, Cap.16 - El legado de la Forja_
+
+Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [Guardianes](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzav8000n036cj53bcu47/) aprendieron a usarlo a un nivel mucho mayor que el actual.
