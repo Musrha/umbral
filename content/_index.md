@@ -13,7 +13,7 @@ El Umbral guarda consigo secretos mucho mayores. Parece tratarse de una magia mu
 
 El Origen del Umbral es desconocido. Aquellos que alguna vez han estudiado el Umbral lo han situado más allá del tiempo mismo. Hay quien dice que incluso fue lo que trajo la Magia al Mundo. Los misterios de su origen son tantos como el lugar donde está situado, Valle del Umbral en un lugar cercano al centro de Levaryck.
 
-Cuando [[Viridio]] encontró el Umbral gracias a su Magia se unió a [[Cobalto]] y [[Luma]] en su búsqueda. Una vez llegaron allí, [[Lila]] lo había cruzado. Juntos construyeron la Ciudadela y encerraron la Primera Semilla en el pentágono de roca, lo que sería conocido como el Umbral desde entonces y convirtiéndose en [[Guardianes]] del mismo.
+Cuando [[Habitantes/Maestros/Viridio]] encontró el Umbral gracias a su Magia se unió a [[Cobalto]] y [[Luma]] en su búsqueda. Una vez llegaron allí, [[Lila]] lo había cruzado. Juntos construyeron la Ciudadela y encerraron la Primera Semilla en el pentágono de roca, lo que sería conocido como el Umbral desde entonces y convirtiéndose en [[Guardianes]] del mismo.
 
 Alrededor de este lugar probaron, investigaron y averiguaron su funcionamiento. Construyeron allí La Ciudadela del Umbral, una blanca fortaleza en lo alto de una colina, refulgente y brillante. Fue el centro de toda civilización hasta que desapareció.
 
@@ -56,4 +56,6 @@ Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras
 
 Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [[Guardianes]] aprendieron a usarlo a un nivel mucho mayor que el actual.
 
-[[Maestros]]
+[Habitantes](Habitantes/Habitantes.md)
+
+[Maestros](Habitantes/Maestros/Maestros.md)

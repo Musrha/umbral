@@ -1,11 +1,10 @@
 ---
 title: "Maestros"
-tag:
+tags:
+- habitantes
+- umbral
 - maestros
 ---
-# Maestros
-
-## Main
 
 > Ella nos reunió a todos. Desde todos los rincones. Y nos mostró un propósito, en el Umbral
 > 
@@ -21,18 +20,20 @@ Hace aproximadamente veinte años, un grupo dirigido por una tejedora llamada Yl
 
 No debe confundirse a los Maestros del Umbral (aventureros de la Hermandad) con los Guardianes Originales (las estatuas; Lila, Luma, Cobalto y Viridio), quienes vivieron hace un milenio y crearon la Ciudadela Original.
 
-- [[Akane]]
-- [[Anacardo]]
-- [[Arcivo]]
-- [[Ashana]]
-- [[Barbariccia]]
-- [[El Viajero]]
-- [[Gauda von Eigner]]
-- [[Gurfid]]
-- [[Jebedaya]]
-- [[Kitara]]
-- [[Rodgal]]
-- [[Silvea Zhen]]
-- [[Talo]]
-- [[Viridio]]
-- [[Ylia, la Guardiana del Umbral]]
+
+Lista de Maestros
+- [Akane](Habitantes/Maestros/Akane.md)
+- [Anarcardo](Habitantes/Maestros/Anarcardo.md)
+- [Arcivo](Habitantes/Maestros/Arcivo.md)
+- [Ashana](Habitantes/Maestros/Ashana.md)
+- [Barbariccia](Habitantes/Maestros/Barbariccia.md)
+- [El Viajero](Habitantes/Maestros/El%20Viajero.md)
+- [Gauda von Eigner](Habitantes/Maestros/Gauda%20von%20Eigner.md)
+- [Gurfid](Habitantes/Maestros/Gurfid.md)
+- [Jebedaya](Habitantes/Maestros/Jebedaya.md)
+- [Kitara](Habitantes/Maestros/Kitara.md)
+- [Rodgal](Habitantes/Maestros/Rodgal.md)
+- [Silvea Zhen](Habitantes/Maestros/Silvea%20Zhen.md)
+- [Talo](Habitantes/Maestros/Talo.md)
+- [Viridio](Habitantes/Maestros/Viridio.md)
+- [Ylia, la Guardiana del Umbral](Habitantes/Maestros/Ylia,%20la%20Guardiana%20del%20Umbral.md)

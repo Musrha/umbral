@@ -12,7 +12,7 @@ Los Guardianes del Umbral
 
 Los Guardianes del Umbral fueron los cuatro Amos y señores de La Ciudadela del Umbral, aquellos que descubrieron El Umbral y establecieron la civilización del mundo. Fueron el origen de la leyenda muerta de siglos atrás, aquellos que dieron a conocer su poder y lo entregaron a las razas civilizadas, para la prosperidad del Mundo y su Ciudadela.
 
-Los Guardianes son cuatro; [[Cobalto]], [[Lila]], [[Luma]] y [[Viridio]]. De ellos, poco se sabe, pues toda historia ha quedado sepultada en los conocimientos olvidados. Se dice que Cobalto construyó la ciudad, Lila llegó desde muy lejos para controlarlo y Viridio descubrió sus secretos. Los rumores de Luma son inciertos y nada concisos.
+Los Guardianes son cuatro; [[Cobalto]], [[Lila]], [[Luma]] y [[Habitantes/Maestros/Viridio]]. De ellos, poco se sabe, pues toda historia ha quedado sepultada en los conocimientos olvidados. Se dice que Cobalto construyó la ciudad, Lila llegó desde muy lejos para controlarlo y Viridio descubrió sus secretos. Los rumores de Luma son inciertos y nada concisos.
 
 Cobalto
 =======
@@ -30,7 +30,7 @@ Viridio
 
 Viridio, Maestro Relámpago de la Vorágine, Archimago del Umbral, el Verde Cogniscible, Eterno Aprendiz, Forjador del Conjuro, Rama viviente y portador de los Dones.
 
-[[Viridio]], cuya estatua muestra un hombre de poblada y desaliñada barba y anteojos, ataviado con una túnica sencilla, portador de una lanza y un orbe catalizador.
+[[Habitantes/Maestros/Viridio]], cuya estatua muestra un hombre de poblada y desaliñada barba y anteojos, ataviado con una túnica sencilla, portador de una lanza y un orbe catalizador.
 
 Según se cuenta, fue un archimago allá donde comenzó a investigar para hallar la primigenia magia. Empleó todas sus técnicas para seguir los hilos hasta alcanzar la fuente de poder.
 
