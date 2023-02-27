@@ -11,11 +11,11 @@ El Umbral guarda consigo secretos mucho mayores. Parece tratarse de una magia mu
 
 # Origen
 
-El Origen del Umbral es desconocido. Aquellos que alguna vez han estudiado el Umbral lo han situado más allá del tiempo mismo. Hay quien dice que incluso fue lo que trajo la Magia al Mundo. Los misterios de su origen son tantos como el lugar donde está situado, [Valle del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1pdt5b0018037c6ke1wqbt/) en un lugar cercano al centro de [Levaryck](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwl6ccs4000a036cbm61llf5/).
+El Origen del Umbral es desconocido. Aquellos que alguna vez han estudiado el Umbral lo han situado más allá del tiempo mismo. Hay quien dice que incluso fue lo que trajo la Magia al Mundo. Los misterios de su origen son tantos como el lugar donde está situado, Valle del Umbral en un lugar cercano al centro de Levaryck.
 
-Cuando [[Habitantes/Viridio]] encontró el Umbral gracias a su Magia se unió a [Cobalto](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzwwj000v036ckhxi3v7y/) y [Luma](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r21k10015036c02dzbxak/) en su búsqueda. Una vez llegaron allí, [Lila](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9r1pw90010036c4jitdelk/) lo había cruzado. Juntos construyeron la Ciudadela y encerraron la [Primera Semilla](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9ubso5005d036clcfradz4/) en el pentágono de roca, lo que sería conocido como el Umbral desde entonces.
+Cuando [[Viridio]] encontró el Umbral gracias a su Magia se unió a [[Cobalto]] y [[Luma]] en su búsqueda. Una vez llegaron allí, [[Lila]] lo había cruzado. Juntos construyeron la Ciudadela y encerraron la Primera Semilla en el pentágono de roca, lo que sería conocido como el Umbral desde entonces y convirtiéndose en [[Guardianes]] del mismo.
 
-Alrededor de este lugar probaron, investigaron y averiguaron su funcionamiento. Construyeron allí [La Ciudadela del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1plko8001p037c854lyoys/), una blanca fortaleza en lo alto de una colina, refulgente y brillante. Fue el centro de toda civilización hasta que desapareció.
+Alrededor de este lugar probaron, investigaron y averiguaron su funcionamiento. Construyeron allí La Ciudadela del Umbral, una blanca fortaleza en lo alto de una colina, refulgente y brillante. Fue el centro de toda civilización hasta que desapareció.
 
 # Funcionamiento
 
@@ -43,15 +43,17 @@ Dominado a la perfección, el Umbral permite el teletransporte absoluto; es deci
         
 -   Para volver exactamente al lugar de origen, es necesario tener una Conexión con el Umbral, ya sea un grabado conjurado de la misma o un vínculo.
     
-    -   Entrar en el Umbral sin una Conexión o sin haber establecido el Vínculo enviará a quien lo atraviese a un lugar completamente aleatorio, de Levarick u otro lugar del [Multiverso](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx0w2ji9000j036cusjioq43/).
+    -   Entrar en el Umbral sin una Conexión o sin haber establecido el Vínculo enviará a quien lo atraviese a un lugar completamente aleatorio, de Levarick u otro lugar del Multiverso.
         
     -   Los brazaletes que portan el Glifo permiten el retorno, ya que están vinculados a la Conexión, pero es posible vincularse de otras maneras (ej. Galatea grabó el glifo en su brazo en cuanto lo vio).
         
         -   Sin embargo, atravesar un Umbral diferente no tiene por qué activar la vinculación del brazalete. Se desconoce la causa.
             
 
-Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras, como sugirió [Galatea, la Herrera Legendaria](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwj80tu3000b036cynatedfq/).
+Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras, como sugirió Galatea, la Herrera Legendaria.
 
 > _¿Brazalete? ¿Ahora funciona así? - Galatea, Cap.16 - El legado de la Forja_
 
-Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [Guardianes](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzav8000n036cj53bcu47/) aprendieron a usarlo a un nivel mucho mayor que el actual.
+Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [[Guardianes]] aprendieron a usarlo a un nivel mucho mayor que el actual.
+
+[[Maestros]]

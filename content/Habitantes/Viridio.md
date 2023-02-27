@@ -16,4 +16,4 @@ tags:
 
 **_Viridio pasó los últimos novecientos años con la forma de una figura hecha de raíces, la Figura de Nudos_**_, a los pies de un inmenso árbol en una de las antiguas plazas. Durante ese tiempo, su mente se asió a los nudos y ramas, controlando el bosque y a las criaturas que allí vivían, para evitar que peligros se acercaran al Umbral hasta que de nuevo llegase su plan para volver. Para ello, había preparado un complejo ritual mediante el cual su corazón, casi un milenio después de su transformación, volviese a él._
 
-**_Actualmente reside de nuevo en el Umbral, ayudando a los demás Maestros en la gestión._** _No ostenta, sin embargo, el cargo que ostentó Ylia en el pasado, pues no desea gobernar este lugar. Actualmente busca traer de vuelta a Lila y Cobalto, para que vuelvan los tres finalmente a vivir juntos._
+**_Actualmente reside de nuevo en el Umbral, ayudando a los demás Maestros en la gestión._** _No ostenta, sin embargo, el cargo que ostentó Ylia en el pasado, pues no desea gobernar este lugar. Actualmente busca traer de vuelta a [[Lila]] y [[Cobalto]], para que vuelvan los tres finalmente a vivir juntos._

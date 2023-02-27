@@ -1,5 +1,5 @@
 baseURL = "https://musrha.github.io/umbral/"
-languageCode = "en-us"
+languageCode = "es-es"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
