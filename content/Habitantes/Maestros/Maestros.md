@@ -1,5 +1,6 @@
 ---
-title: "Maestros"
+title: Maestros
+slug: maestros
 tags:
 - habitantes
 - umbral
