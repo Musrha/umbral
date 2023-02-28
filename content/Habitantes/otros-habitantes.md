@@ -1,5 +1,6 @@
 ---
-title: "Habitantes"
+title: "Otros habitantes"
+weight: -4
 tags:
 - habitantes
 ---

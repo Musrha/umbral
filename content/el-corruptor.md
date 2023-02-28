@@ -42,7 +42,7 @@ La Guardiana le devolvió lejos, al sur, pues no tenían potestad para acabar co
 
 Tomando un grupo peregrino de Kóbolds al Sur, les convenció para que le siguieran en un asalto contra un pequeño poblado porque sabía que el Umbral aparecería. Efectivamente, los miembros del Umbral aparecieron. Cambió su apariencia por la de una Aventurera más y les siguió, aplicando su Maldición de la Cuestión.
 
-Ya ante el Umbral, después de sabotear su viaje, el Corruptor les paralizó a todos, asesinó a Malenon Drayton y cruzó el Umbral, pues había visto el Conjuro. Una vez al otro lado mintió a Arcivo y a los demás y se hizo pasar por Malenon, tratando de colarse en las dependencias inferiores del Umbral.
+Ya ante el Umbral, después de sabotear su viaje, el Corruptor les paralizó a todos, asesinó a Malenon Drayton y cruzó el Umbral, pues había visto el Conjuro. Una vez al otro lado mintió a [Arcivo](Habitantes/Maestros/arcivo.md) y a los demás y se hizo pasar por Malenon, tratando de colarse en las dependencias inferiores del Umbral.
 
 ### · Sesión 26 ·
 
