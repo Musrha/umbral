@@ -17,4 +17,4 @@ tags:
 
 **Jebedaya era el encargado de sanar a los aprendices del Umbral cuando volvían de sus misiones,** así como prepararles e incluso bendecirles antes de su marcha. Pese a no saberse a qué deidad adoraba, debe de ser alguna relacionada con la Luz o la Fuerza. Sin duda, un clérigo de la sanación, pero parece tener acceso a conjuros más poderosos.
 
-J**ebedaya era el Maestro más cercano a [[Habitantes/Maestros/ylia-la-guardiana-del-umbral]], confábulo de sus planes e intenciones**, y fiel seguidor de los mismos. Actualmente se encuentra en paradero desconocido. Los aprendices piensan que fue asesinado por la Bruja de las Vísceras en el bosque, pero no se ha encontrado ningún cuerpo.
+J**ebedaya era el Maestro más cercano a [[Habitantes/maestros/ylia-la-guardiana-del-umbral]], confábulo de sus planes e intenciones**, y fiel seguidor de los mismos. Actualmente se encuentra en paradero desconocido. Los aprendices piensan que fue asesinado por la Bruja de las Vísceras en el bosque, pero no se ha encontrado ningún cuerpo.
