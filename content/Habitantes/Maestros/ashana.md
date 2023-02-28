@@ -10,7 +10,7 @@ tags:
 
 **Ashana, la manca es la Maestra Encantadora del Umbral.** Es una elfa muy anciana, probablemente rondando los doscientos años de edad, paranoica y con mal genio. Su pelo es largo y gris, atado en una larga trenza abultada y maltrecha. Viste con una túnica raída y poco cuidada, con un delantal donde guarda todas sus herramientas de confección.
 
-**Ashana es la Encantadora que confecciona los pergaminos rúnicos con el conjuro que abren el Umbral.** En ellos, busca las runas de posición que permiten que el Umbral viaje a un punto concreto. Es gracias a su magia rúnica, por imprecisa que sea, que junto a la [[habitantes/maestros/ylia-la-guardiana-del-umbral]] y [[habitantes/maestros/kitara]] lograron aprender a lo largo de veinte años el secreto de la magia de cómo viajar en el portal, sin perderse en el camino.
+**Ashana es la Encantadora que confecciona los pergaminos rúnicos con el conjuro que abren el Umbral.** En ellos, busca las runas de posición que permiten que el Umbral viaje a un punto concreto. Es gracias a su magia rúnica, por imprecisa que sea, que junto a la [[habitantes/maestros/ylia]] y [[habitantes/maestros/kitara]] lograron aprender a lo largo de veinte años el secreto de la magia de cómo viajar en el portal, sin perderse en el camino.
 
 **Es huraña y desconfiada, y posiblemente nunca explique cómo perdió la mano.** Durante mucho tiempo, ha sido más cercana a [[habitantes/maestros/barbariccia]] que a cualquier otro maestro, guardando para sí misma sus pensamientos. En uno de sus viajes acabó perdida en otro mundo, mas logró volver sin mayor inconvenientes.
 

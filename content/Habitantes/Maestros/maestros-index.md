@@ -21,18 +21,18 @@ Hace aproximadamente veinte años, un grupo dirigido por una tejedora llamada Yl
 No debe confundirse a los Maestros del Umbral (aventureros de la Hermandad) con los Guardianes Originales (las estatuas; Lila, Luma, Cobalto y Viridio), quienes vivieron hace un milenio y crearon la Ciudadela Original.
 
 Lista de Maestros
-- [Akane](habitantes/maestros/akane.md)
-- [Anarcardo](habitantes/maestros/anacardo.md)
-- [Arcivo](habitantes/maestros/arcivo.md)
-- [Ashana](habitantes/maestros/ashana.md)
-- [barbariccia](habitantes/maestros/barbariccia.md)
-- [El Viajero](habitantes/maestros/el-viajero.md)
-- [Gauda von Eigner](habitantes/maestros/gauda-von-eigner.md)
-- [Gurfid](habitantes/maestros/gurfid.md)
-- [Jebedaya](habitantes/maestros/jebedaya.md)
-- [Kitara](habitantes/maestros/kitara.md)
-- [Rodgal](habitantes/maestros/rodgal.md)
-- [Silvea Zhen](habitantes/maestros/silvea-zhen.md)
-- [Talo](habitantes/maestros/talo.md)
-- [Viridio](habitantes/maestros/viridio.md)
-- [Ylia, la Guardiana del Umbral](habitantes/maestros/ylia-la-guardiana-del-umbral.md)
+- [[habitantes/maestros/akane|Akane]]
+- [[habitantes/maestros/anacardo|Anarcardo]]
+- [[habitantes/maestros/arcivo|Arcivo]]
+- [[habitantes/maestros/ashana|Ashana]]
+- [[habitantes/maestros/barbariccia|Barbariccia]]
+- [[habitantes/maestros/el-viajero|El Viajero]]
+- [[habitantes/maestros/gauda-von-eigner|Gauda von Eigner]]
+- [[habitantes/maestros/gurfid|Gurfid]]
+- [[habitantes/maestros/jebedaya|Jebedaya]]
+- [[habitantes/maestros/kitara|Kitara]]
+- [[habitantes/maestros/rodgal|Rodgal]]
+- [[habitantes/maestros/silvea-zhen|Silvea Zhen]]
+- [[habitantes/maestros/talo|Talo]]
+- [[habitantes/maestros/viridio|Viridio]]
+- [[habitantes/maestros/ylia|Ylia, la Guardiana del Umbral]]
