@@ -6,7 +6,7 @@ tags:
 - maestros
 - barbaros
 ---
-![](notes/images/Akane.png)
+![](images/Akane.png)
 > "En las tierras donde provengo existe un dicho; mi Voz está contigo. Significa mucho que alguien te provea de esa bendición. Significa que grita, ruge, ríe y muere por ti. Empleala no en vano; une no sabe cuándo puede recurrir a la fuerza de las personas que le rodean" - Akane
 
 **Akane es le Maestre Bárbare de Umbral, une semielfe de inmensa fuerza y bravos músculos.** Su cabello rojo es tan grueso que no puede ser cortado, creciente por cada batalla que ha librado. Pese a poseer sangre élfica, es le maestre más joven de todo el Umbral, con apenas sesenta años de edad. Viste con las pieles de su hogar, una tribu de tradiciones arraigadas en otro continente. Su hacha, Talladents, se mantiene siempre afilada y reforjada.

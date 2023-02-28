@@ -9,19 +9,19 @@ tags:
 
 # **La Ciudadela del Umbral**
 
-La Ciudadela del Umbral fue antaño el mayor de los [[Civilizaciones]] del Mundo de [[]Levaryck]]. Fue la cúspide de la civilización, de la ciencia y de la magia, el Centro del Mundo civilizado. Se dice que el Umbral tenía influencia en todos lugares, en cada punto de todo reino. Casi cualquier decisión de los demás reinos tenían que entrar en convergencia con el gobierno del Umbral.
+La Ciudadela del Umbral fue antaño el mayor de los [[civilizaciones|Civilizaciones]] del Mundo de [[levaryck|Levaryck]]. Fue la cúspide de la civilización, de la ciencia y de la magia, el Centro del Mundo civilizado. Se dice que el Umbral tenía influencia en todos lugares, en cada punto de todo reino. Casi cualquier decisión de los demás reinos tenían que entrar en convergencia con el gobierno del Umbral.
 
-La Ciudadela estaba gobernada por los [[Guardianes]], los cuales emplearon las grandes artes de las que dispusieron para regir su estado. En el momento más álgido para el Umbral, los cuatro fueron de alguna manera considerados “Monarcas” de Levaryck, aunque nunca Reyes ni Reinas.
+La Ciudadela estaba gobernada por los [[guardianes|Guardianes]], los cuales emplearon las grandes artes de las que dispusieron para regir su estado. En el momento más álgido para el Umbral, los cuatro fueron de alguna manera considerados “Monarcas” de Levaryck, aunque nunca Reyes ni Reinas.
 
 ## **La Historia de la Ciudadela**
 
-Según cuentan las viejas leyendas, hace un milenio la Ciudadela del Umbral fue construida sobre una inmensa fuente de poder; [[_index|El Umbral]], un elemento mágico desconocido y celosamente guardado. Descubierto por Cobalto, [[Habitantes/maestros/viridio]] y [[Luma]], dicen que allí encontraron a [[Lila]], ya conocedora del místico Umbral. Se cree que este lugar puede ser [[valle-del-umbral]], pero no está confirmado.
+Según cuentan las viejas leyendas, hace un milenio la Ciudadela del Umbral fue construida sobre una inmensa fuente de poder; El Umbral, un elemento mágico desconocido y celosamente guardado. Descubierto por Cobalto, [[viridio|Viridio]] y [[luma|Luma]], dicen que allí encontraron a [[lila|Lila]], ya conocedora del místico Umbral. Se cree que este lugar puede ser el [[valle-del-umbral|Valle del Umbral]], pero no está confirmado.
 
 Con el tiempo, los cuatro comenzaron a explorar e investigar los límites de este poder legendario, todo aquello que podían conseguir. Fue un lugar lo suficientemente atrayente, lo suficientemente importante e impactante como para que los cuatro abandonaran sus vidas de antaño y dedicasen el resto de su existencia al Umbral.
 
 Construyeron sobre aquél lugar una ciudad. Los grandes gólems de Cobalto trajeron los bloques de piedra. La ingeniería y ciencia de Viridio dieron forma a la ciudad anillada, y la voz de Lila convocó al mundo entero. Una vez estuvo construida, con el Umbral como centro bajo sus inmensas salas, todo el mundo fue invitado.
 
-La Ciudadela del Umbral acogió a todo aquél que buscase un hogar, todo aquél que quisiese valerse por sí mismo, y les dio un cometido. Los Aventureros, los Adalides del Umbral, armados por [[Forjadores]] y bendecidos por las Altas Magias viajaron por el mundo y lo unieron, estableciéndose en [[Las Atalayas]], grandes construcciones en los límites del Mundo para organizar actuaciones rápidas.
+La Ciudadela del Umbral acogió a todo aquél que buscase un hogar, todo aquél que quisiese valerse por sí mismo, y les dio un cometido. Los Aventureros, los Adalides del Umbral, armados por [[forjadores|Forjadores]] y bendecidos por las Altas Magias viajaron por el mundo y lo unieron, estableciéndose en [[atalayas|Las Atalayas]], grandes construcciones en los límites del Mundo para organizar actuaciones rápidas.
 
 De esta manera, el Mundo entero estuvo bajo la rápida actuación del Umbral. En cualquier lugar se reconocía el brillante símbolo de la constelación. Ante cualquier maldición, enemigo o ataque, allí estaban, los valientes guerreros del Umbral para presentar batalla. Enviados a misiones del más alto estandarte o a tareas rutinarias, no importaba; cualquiera era bienvenido.
 
@@ -31,7 +31,7 @@ Con el tiempo, la Ciudadela cayó en olvido. Toda la gran civilización del Umbr
 
 ## **Estado actual**
 
-Actualmente, la Ciudadela del Umbral, o eso se cree, está destruida, siendo las ruinas que se encuentran en [[valle-del-umbral]].
+Actualmente, la Ciudadela del Umbral, o eso se cree, está destruida, siendo las ruinas que se encuentran en el [[valle-del-umbral|Valle del Umbral]].
 
 # **La caída de la Ciudadela**
 
@@ -59,6 +59,6 @@ _Percival, Arthur, Izar, Elianor y Kaugh en un viaje al pasado durante La Caída
     
 -   Desde lo alto, un único rayo del tamaño de la Ciudadela entera alcanzó y destruyó prácticamente la totalidad de la torre.
     
--   Los [[ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
+-   Los [[ascendidos|Ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[aventureros|Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
     
--   Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck]] donde estar a salvo.
+-   Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck|Levaryck]] donde estar a salvo.

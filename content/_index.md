@@ -1,8 +1,8 @@
 ---
-title: Wiki de Umbral
+title: "Wiki de Umbral"
 enableToc: false
 ---
-![](notes/images/Landing.jpg)
+![](images/Landing.jpg)
 # **El Umbral**
 
 El Umbral es un místico portal arcano, una Puerta a todos los lugares. Desde él, es posible acceder a todos los rincones del Mundo y de todos los Universos.

@@ -7,8 +7,10 @@ tags:
 - tejedores
 ---
 > ![embedded image](https://assets.legendkeeper.com/d0454630-d342-4e76-a3d4-b7759be7d542.jpg "Attachment")
-> 
-> _"Sígueme, entonces. Estoy buscando un lugar; un sitio antaño olvidado. Estoy buscando la ubicación de la que antaño fue la Ciudadela del Umbral, donde todavía yace ese poder. Ven. Únete a la Hermandad" - Ylia_
+>
+
+>[!quote]
+>_"Sígueme, entonces. Estoy buscando un lugar; un sitio antaño olvidado. Estoy buscando la ubicación de la que antaño fue la Ciudadela del Umbral, donde todavía yace ese poder. Ven. Únete a la Hermandad" - Ylia_
 
 **Ylia, la Guardiana del Umbral, fue la Maestra Tejedora de la Hermandad Custodia.** Fue una dríade de gran altura, cubierta con una capa púrpura cuya capucha era atravesada por su cornamenta de ramas. Su armadura, de platino iridiado y cobalto, brillaba bajo su manto sostenido por un emblema del Sol y la Luna. Sostenía con su mano, donde portaba el brazalete con la Primera Semilla, un báculo enredado en una lanza brillante, con bayas rojas nacientes en ella.
 
@@ -18,7 +20,7 @@ tags:
 
 **Durante mucho tiempo, Ylia buscó las [[Semillas del Umbral]], los fragmentos que conforman la entidad completa del mismo,** para aumentar el alcance y poder de éste. Para ello, ocultó información a los aprendices y realizó actos oscuros, como atrapar a la joven Scarlett, la Octava Semilla. Se descubrió entonces que, al parecer, **Ylia fue durante todo este tiempo Luma, una de los cuatro Antiguos [[guardianes]] del Umbral**. El objetivo final de ésta, una vez reunidas todas las semillas, era el de viajar al Índice, el lugar donde la realidad misma podía reescribirse, para reestablecer la totalidad de éste y el resto de Universos y reiniciarlos a su voluntad, creando un mundo sin mal, dolor ni sufrimiento.
 
-**Luma murió cuando [[Habitantes/maestros/talo]] la empujó al portal inestable, en una explosión de luz y destino deshilachado.** Nada quedó de su cuerpo, perdido en los infinitos espacios que conforman el tiempo. Su recuerdo permanece ahora en la Cuarta Estatua del Umbral, una dríade reconocida y recordada.
+**Luma murió cuando [[talo|Talo]] la empujó al portal inestable, en una explosión de luz y destino deshilachado.** Nada quedó de su cuerpo, perdido en los infinitos espacios que conforman el tiempo. Su recuerdo permanece ahora en la Cuarta Estatua del Umbral, una dríade reconocida y recordada.
 
 > _Del otro lado de las ruinas de piedra emerge una imponente figura. Bajo una oscura túnica oscura y raída se observa una gruesa armadura iridiada que brilla al son de la oscuridad. Las piezas plateadas muestran en sus muescas las batallas de antaño y el uso. En su mano derecha sostiene una lanza, bruñida en plata y envuelta en amplias ramas que conforman un báculo de olmo, adornado con guindas y bayas rojas. Sobre su cabeza, atravesando la capucha una cornamenta de ramas y madera coronan un rostro de mirada fría y vetusta. Un rostro anciano y sabio, una dríade antigua como los robles, una vestal que guarda, guía y custodia el gran pórtico de roca gris. Y sabrás cuando oigas sus pasos caminar hacia las estatuas que ante ti se encuentra la única y ominosa, la portadora del Conjuro, la Guardiana del Umbral._
 

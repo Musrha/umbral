@@ -14,7 +14,8 @@ Portero borde de la Hermandad, es el primer rostro que observan los aventureros 
 
 **Guardián**
 
-> _"¡Bienvenidos, Viajeros! Decidme, ¿qué buscáis? ¿Acaso vais en busca de la afamada Ciudadela Blanca? ¿O quizá os habéis perdido? Dependiendo de lo que vengáis a encontrar tras estas puertas os puedo decir lo que pueda haber" - Talo_
+>[!quote]
+>_"¡Bienvenidos, Viajeros! Decidme, ¿qué buscáis? ¿Acaso vais en busca de la afamada Ciudadela Blanca? ¿O quizá os habéis perdido? Dependiendo de lo que vengáis a encontrar tras estas puertas os puedo decir lo que pueda haber" - Talo_
 
 **Sir Talo Guardarrama, Montaraz de Jabadel fue el Maestro Explorador y Guardián de la Hermandad Custodia del Umbral**. Era un hombre anciano, corpulento y algo encorvado, con voz raspada y tono autoritario, de largas patillas que caían hasta el cuello, nariz ganchuda y barbilla prominente. Junto a él siempre permanece [Cóclea](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/clbtj5o3700080288rthynhkd/), su gallina de plumas de oro, una criatura con mal genio y combativa, que nunca se separaba de su amo.
 
