@@ -58,4 +58,4 @@ Es posible que antaño fuese más libre o más restrictivo, pero no se tienen da
 
 [Habitantes](habitantes/habitantes-index.md)
 
-[Maestros](habitantes/maestros/maestros-index.md)
+[[maestros-index|Maestros]]
