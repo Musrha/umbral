@@ -15,7 +15,7 @@ La Ciudadela estaba gobernada por los [[guardianes|Guardianes]], los cuales empl
 
 ## **La Historia de la Ciudadela**
 
-Según cuentan las viejas leyendas, hace un milenio la Ciudadela del Umbral fue construida sobre una inmensa fuente de poder; El Umbral, un elemento mágico desconocido y celosamente guardado. Descubierto por Cobalto, [[Habitantes/Maestros/viridio|Viridio]] y [[luma|Luma]], dicen que allí encontraron a [[lila|Lila]], ya conocedora del místico Umbral. Se cree que este lugar puede ser el [[valle-del-umbral|Valle del Umbral]], pero no está confirmado.
+Según cuentan las viejas leyendas, hace un milenio la Ciudadela del Umbral fue construida sobre una inmensa fuente de poder; El Umbral, un elemento mágico desconocido y celosamente guardado. Descubierto por Cobalto, [[Habitantes/viridio|Viridio]] y [[luma|Luma]], dicen que allí encontraron a [[lila|Lila]], ya conocedora del místico Umbral. Se cree que este lugar puede ser el [[valle-del-umbral|Valle del Umbral]], pero no está confirmado.
 
 Con el tiempo, los cuatro comenzaron a explorar e investigar los límites de este poder legendario, todo aquello que podían conseguir. Fue un lugar lo suficientemente atrayente, lo suficientemente importante e impactante como para que los cuatro abandonaran sus vidas de antaño y dedicasen el resto de su existencia al Umbral.
 
