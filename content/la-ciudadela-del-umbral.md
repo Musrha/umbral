@@ -9,13 +9,13 @@ tags:
 
 # **La Ciudadela del Umbral**
 
-La Ciudadela del Umbral fue antaño el mayor de los [[civilizaciones|Civilizaciones]] del Mundo de [[levaryck|Levaryck]]. Fue la cúspide de la civilización, de la ciencia y de la magia, el Centro del Mundo civilizado. Se dice que el Umbral tenía influencia en todos lugares, en cada punto de todo reino. Casi cualquier decisión de los demás reinos tenían que entrar en convergencia con el gobierno del Umbral.
+La Ciudadela del Umbral fue antaño el mayor de los [[civilizaciones|Civilizaciones]] del Mundo de [[levaryck/levaryck-index|Levaryck]]. Fue la cúspide de la civilización, de la ciencia y de la magia, el Centro del Mundo civilizado. Se dice que el Umbral tenía influencia en todos lugares, en cada punto de todo reino. Casi cualquier decisión de los demás reinos tenían que entrar en convergencia con el gobierno del Umbral.
 
 La Ciudadela estaba gobernada por los [[guardianes|Guardianes]], los cuales emplearon las grandes artes de las que dispusieron para regir su estado. En el momento más álgido para el Umbral, los cuatro fueron de alguna manera considerados “Monarcas” de Levaryck, aunque nunca Reyes ni Reinas.
 
 ## **La Historia de la Ciudadela**
 
-Según cuentan las viejas leyendas, hace un milenio la Ciudadela del Umbral fue construida sobre una inmensa fuente de poder; El Umbral, un elemento mágico desconocido y celosamente guardado. Descubierto por Cobalto, [[Habitantes/Maestros/viridio|Viridio]] y [[luma|Luma]], dicen que allí encontraron a [[lila|Lila]], ya conocedora del místico Umbral. Se cree que este lugar puede ser el [[valle-del-umbral|Valle del Umbral]], pero no está confirmado.
+Según cuentan las viejas leyendas, hace un milenio la Ciudadela del Umbral fue construida sobre una inmensa fuente de poder; El Umbral, un elemento mágico desconocido y celosamente guardado. Descubierto por Cobalto, [[habitantes/maestros/viridio|Viridio]] y [[luma|Luma]], dicen que allí encontraron a [[lila|Lila]], ya conocedora del místico Umbral. Se cree que este lugar puede ser el [[levaryck/civilizaciones/valle-del-umbral|Valle del Umbral]], pero no está confirmado.
 
 Con el tiempo, los cuatro comenzaron a explorar e investigar los límites de este poder legendario, todo aquello que podían conseguir. Fue un lugar lo suficientemente atrayente, lo suficientemente importante e impactante como para que los cuatro abandonaran sus vidas de antaño y dedicasen el resto de su existencia al Umbral.
 
@@ -31,7 +31,7 @@ Con el tiempo, la Ciudadela cayó en olvido. Toda la gran civilización del Umbr
 
 ## **Estado actual**
 
-Actualmente, la Ciudadela del Umbral, o eso se cree, está destruida, siendo las ruinas que se encuentran en el [[valle-del-umbral|Valle del Umbral]].
+Actualmente, la Ciudadela del Umbral, o eso se cree, está destruida, siendo las ruinas que se encuentran en el [[levaryck/civilizaciones/valle-del-umbral|Valle del Umbral]].
 
 # **La caída de la Ciudadela**
 
@@ -61,4 +61,4 @@ _Percival, Arthur, Izar, Elianor y Kaugh en un viaje al pasado durante La Caída
     
 -   Los [[ascendidos|Ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[aventureros|Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
     
--   Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck|Levaryck]] donde estar a salvo.
+-   Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck/levaryck-index|Levaryck]] donde estar a salvo.

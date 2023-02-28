@@ -17,7 +17,7 @@ La Comparsa es temida y amada en diferentes sitios de Levaryck; algunos dicen qu
 
 Su líder es [[baltasar|Báltasar]], de quien poco se sabe. Nunca nadie de fuera le ha visto, y los miembros de la Comparsa se relacionan siempre a través de otros jefes menores que llevan las caravanas.
 
-La Comparsa actúa en todo el territorio circundante a [[cirksena|Cirksena]] sobre todo, aunque se han mostrado algunas de estas Caravanas en otros sitios.
+La Comparsa actúa en todo el territorio circundante a [[levaryck/civilizaciones/reinos/cirksena|Cirksena]] sobre todo, aunque se han mostrado algunas de estas Caravanas en otros sitios.
 
 ## Todos Iguales
 
