@@ -10,7 +10,7 @@ tags:
 
 #### **Localización**
 
-Isla del Océano de Nábulo, al sureste, en [Traseiro](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckxngp25p000m037cnt2dn3sw/).
+Isla del Océano de Nábulo, al sureste, en [[levaryck/civilizaciones/reinos/traseiro/traseiro-index|Traseiro]].
 
 ## **Geografía**
 

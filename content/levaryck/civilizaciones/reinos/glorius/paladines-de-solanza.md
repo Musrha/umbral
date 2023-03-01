@@ -13,4 +13,4 @@ tags:
 
 # Los Paladines de Solanza
 
-Los Paladines de Solanza son una brillante Orden de caballería
+Los Paladines de Solanza son una brillante Orden de caballería de [[levaryck/civilizaciones/reinos/glorius/solanza|Solanza]]

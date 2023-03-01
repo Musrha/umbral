@@ -1,7 +1,7 @@
 ---
 title: "Civilizaciones"
 tags:
-- tag1
+- Civilizaciones
 - tag2
 - tag3
 ---
@@ -21,4 +21,4 @@ Obviamente, entre Civilizaciones, a lo largo de los siglos, ha habido rencillas,
 
 
 >[!info]- Lista de Civilizaciones
->[[levaryck/civilizaciones/reinos/avalion|Avalion]], [[levaryck/civilizaciones/reinos/cirksena|Cirksena]], [[levaryck/civilizaciones/reinos/evora|Évora]], [[levaryck/civilizaciones/reinos/gaia|Gaia]], [[levaryck/civilizaciones/reinos/hosemin|Hosemîn]], [[levaryck/civilizaciones/reinos/isla-de-mon|Isla de Mon]], [[levaryck/civilizaciones/reinos/lanza-de-plata|Lanza de Plata]], [[levaryck/civilizaciones/reinos/luna-roja|Imperio de la Luna Roja]], [[levaryck/civilizaciones/reinos/micenos|Archipiélago de Micenos]], [[levaryck/civilizaciones/reinos/sylaccia|Silaccia]]
+>[[levaryck/civilizaciones/reinos/avalion|Avalion]], [[levaryck/civilizaciones/reinos/cirksena|Cirksena]], [[levaryck/civilizaciones/reinos/evora|Évora]], [[levaryck/civilizaciones/reinos/gaia|Gaia]], [[levaryck/civilizaciones/reinos/glorius/glorius-index|Glorius]], [[levaryck/civilizaciones/reinos/hosemin|Hosemîn]], [[levaryck/civilizaciones/reinos/isla-de-mon|Isla de Mon]], [[levaryck/civilizaciones/reinos/lanza-de-plata|Lanza de Plata]], [[levaryck/civilizaciones/reinos/luna-roja|Imperio de la Luna Roja]], [[levaryck/civilizaciones/reinos/micenos|Archipiélago de Micenos]], [[levaryck/civilizaciones/reinos/sylaccia|Silaccia]], [[levaryck/civilizaciones/reinos/traseiro/traseiro-index|Traseiro]], [[levaryck/civilizaciones/valle-del-umbral|Valle del Umbral]]
