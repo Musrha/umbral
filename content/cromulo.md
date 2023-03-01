@@ -1,7 +1,7 @@
 ---
 title: "Crómulo"
 tags:
-- tag1
+- Divinidades
 - tag2
 - tag3
 ---

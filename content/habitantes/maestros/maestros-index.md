@@ -32,7 +32,7 @@ Lista de Maestros
 - [[jebedaya|Jebedaya]]
 - [[kitara|Kitara]]
 - [[rodgal|Rodgal]]
-- [[silvea-zhen|Silvea Zhen]]
+- [[habitantes/maestros/silvea-zhen|Silvea Zhen]]
 - [[talo|Talo]]
 - [[viridio|Viridio]]
 - [[ylia|Ylia, la Guardiana del Umbral]]
