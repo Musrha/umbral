@@ -6,6 +6,7 @@ tags:
 - maestros
 - coleccionistas
 ---
+> [!quote]
 > _"Ah, entiendo... veo que no habéis venido aquí solamente por bagatelas y joyería... habéis venido por lo más valioso que poseo... historias. Cuentos, leyendas, rumores, coplas y poemas, ja, ja... Pues recordad que no vendo barato todo aquello que he oído en las mil y una civilizaciones. Vos diréis... ¿qué cuento queréis que os cuente?"_
 > 
 > **- El Viajero**

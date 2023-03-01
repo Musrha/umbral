@@ -8,7 +8,9 @@ tags:
 ---
 ![embedded image](https://assets.legendkeeper.com/b7eb4c62-c320-43ce-8a31-2a56ed87b122.png "Attachment")
 
-> _"Cultivar el cuerpo está muy bien, pero el buen monje encuentra el equilibrio entre cuerpo, mente y espíritu. ¡No somos bárbaros!" – Silvea mientras destruye una mesa de un puñetazo._
+> [!quote]
+> _"Cultivar el cuerpo está muy bien, pero el buen monje encuentra el equilibrio entre cuerpo, mente y espíritu. ¡No somos bárbaros!"_ 
+> – Silvea, mientras destruye una mesa de un puñetazo.
 
 Silvea Zhen es la Maestra Monje de la Hermandad Custodia del Umbral. Es una humana muy alta y corpulenta, con una musculatura muy marcada, piel oscura y pelo plateado. Su poderoso ki le otorga la extraña capacidad de permitirle ver el ki de los demás para analizar su poder.
 

@@ -10,7 +10,8 @@ tags:
 >
 
 >[!quote]
->_"Sígueme, entonces. Estoy buscando un lugar; un sitio antaño olvidado. Estoy buscando la ubicación de la que antaño fue la Ciudadela del Umbral, donde todavía yace ese poder. Ven. Únete a la Hermandad" - Ylia_
+>_"Sígueme, entonces. Estoy buscando un lugar; un sitio antaño olvidado. Estoy buscando la ubicación de la que antaño fue la Ciudadela del Umbral, donde todavía yace ese poder. Ven. Únete a la Hermandad"_
+>\- Ylia
 
 **Ylia, la Guardiana del Umbral, fue la Maestra Tejedora de la Hermandad Custodia.** Fue una dríade de gran altura, cubierta con una capa púrpura cuya capucha era atravesada por su cornamenta de ramas. Su armadura, de platino iridiado y cobalto, brillaba bajo su manto sostenido por un emblema del Sol y la Luna. Sostenía con su mano, donde portaba el brazalete con la Primera Semilla, un báculo enredado en una lanza brillante, con bayas rojas nacientes en ella.
 

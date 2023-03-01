@@ -30,7 +30,7 @@ Viridio
 
 Viridio, Maestro Relámpago de la Vorágine, Archimago del Umbral, el Verde Cogniscible, Eterno Aprendiz, Forjador del Conjuro, Rama viviente y portador de los Dones.
 
-[[habitantes/maestros/viridio]], cuya estatua muestra un hombre de poblada y desaliñada barba y anteojos, ataviado con una túnica sencilla, portador de una lanza y un orbe catalizador.
+[[habitantes/maestros/viridio|Viridio]], cuya estatua muestra un hombre de poblada y desaliñada barba y anteojos, ataviado con una túnica sencilla, portador de una lanza y un orbe catalizador.
 
 Según se cuenta, fue un archimago allá donde comenzó a investigar para hallar la primigenia magia. Empleó todas sus técnicas para seguir los hilos hasta alcanzar la fuente de poder.
 

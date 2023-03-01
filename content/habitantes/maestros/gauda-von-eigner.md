@@ -6,10 +6,13 @@ tags:
 - maestros
 - duelistas arcanos
 ---
-> _"¡Oh, ya veo! ¡Un bardo! Dime, dime, ¿te gusta la mar? ¿El sonido del abominable oleaje tratando de arrancarte el aliento en noches oscuras? ¿Te gusta el pillaje, la piratería y el sonido de los cañones? ¡Únete, pues, a mi tripulación! - Gauda, probablemente a cualquier persona_
+>[!quote]
+>_"¡Oh, ya veo! ¡Un bardo! Dime, dime, ¿te gusta la mar? ¿El sonido del abominable oleaje tratando de arrancarte el aliento en noches oscuras? ¿Te gusta el pillaje, la piratería y el sonido de los cañones? ¡Únete, pues, a mi tripulación!_ 
+>\- Gauda, probablemente a cualquier persona
 
 **Gauda Von Eigner, capitana del** [Insondable/Antares](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/clbr3d0w9000q02886hy3sa14/) **y Maestra Duelista Arcana del Umbral, es una pirata reptiliana de edad desconocida.** El patrón de colores de su cuerpo es debido a su procedencia; Villa Sustrato, una humilde aldea donde sus habitantes son de vívidos colores. Su poder y fuerza en el combate individual no tiene rival. Su arma, el **"Jolly Roger"** es temida allá por donde pasa, y sus técnicas de duelista (inventadas por ella misma) son todo un furor en las mejores escuelas de la hoja.
 
+> [!quote]
 > _Se dice que una de las técnicas secretas de esta poderosa espada es capaz de obligar a alguien a experimentar su propia muerte._
 
 **Gauda tiende a ser problemática, habiendo sido expulsada de la Hermandad Custodia por crímenes desconocidos.** Se casó con un anciano noble de la familia Von Eigner de Cirksena y tomó el apellido solamente para quedarse con la herencia a su debido tiempo. Desde entonces, se la ha visto encerrada, condenada y encarcelada en diversos lugares.

@@ -8,7 +8,9 @@ tags:
 ---
 ![embedded image](https://assets.legendkeeper.com/9a51fea9-7add-410f-a703-2f12030c0457.png "Attachment")
 
-> _"No puedes pretender asimilar la naturaleza, pero debes evitar que la naturaleza te asimile a ti" - Rodgal_
+> [!quote]
+> _"No puedes pretender asimilar la naturaleza, pero debes evitar que la naturaleza te asimile a ti"_
+>\- Rodgal
 
 -   Guardabosques de la Hermandad, patruya los alrededores y da caza a los monstruos. - Es solitario y casi nunca duerme en los aposentos de la Hermandad, aunque recibe a los aventureros que no vienen por el camino principal. - Puede convertirse en Jabalí, Oso y Águila, pero también en muchas otras quimeras. - Su clase es
 
