@@ -17,5 +17,5 @@ En última instancia, los miembros de Umbral utilizaron el poder de un misterios
 
 El reino quedó completamente destruido tras la guerra civil, durante la que también acabó pereciendo el nuevo rey Lorian I. Solo la ciudad de Solanza sobrevivió, que se alzó como nueva capital y último estertor de civilización de Glorius.
 
-[[solanza|Solanza]]
-[[paladines-de-solanza|Paladines de Solanza]]
+[[levaryck/civilizaciones/reinos/glorius/solanza|Solanza]]
+[[levaryck/civilizaciones/reinos/glorius/paladines-de-solanza|Paladines de Solanza]]

@@ -7,7 +7,7 @@ tags:
 - arqueólogos
 ---
 >[!quote]
->_"Hola, buenas noches. Mi nombre es Arcivo. Disculpad a [[Gauda]], no tiene... la mejor mano para dar la bienvenida... Por favor, decidme vuestro nombre, vuestro origen y vuestra senda"_ 
+>_"Hola, buenas noches. Mi nombre es Arcivo. Disculpad a [[habitantes/maestros/gauda-von-eigner|Gauda]], no tiene... la mejor mano para dar la bienvenida... Por favor, decidme vuestro nombre, vuestro origen y vuestra senda"_ 
 >\- Arcivo
 
 **Arcivo es el Maestro Arqueólogo de la Hermandad Custodia del Umbral. Es un humano anciano y afable, de mirada serena y gran corpulencia.** Sus cabellos, grises y blancos, cubren su cuerpo al completo. Según él, es el pelaje de un libro que leyó hace mucho tiempo sobre el viaje de una caravana.

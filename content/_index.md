@@ -1,6 +1,5 @@
 ---
 title: "Wiki de Umbral"
-enableToc: false
 ---
 ![](images/Landing.jpg)
 # **El Umbral**
@@ -56,6 +55,6 @@ Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras
 
 Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [[guardianes|Guardianes]] aprendieron a usarlo a un nivel mucho mayor que el actual.
 
-[Habitantes](habitantes/habitantes-index.md)
+[[habitantes/habitantes-index|Habitantes]]
 
-[[maestros-index|Maestros]]
+[[habitantes/maestros/maestros-index|Maestros]]
