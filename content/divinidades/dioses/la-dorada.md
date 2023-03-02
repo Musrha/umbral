@@ -1,5 +1,5 @@
 ---
-title: "la-dorada"
+title: "La Dorada"
 tags:
 - Divinidades
 - Dioses

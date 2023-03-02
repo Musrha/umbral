@@ -1,5 +1,5 @@
 ---
-title: "abisales"
+title: "Abisales"
 tags:
 - Divinidades
 - Dioses
