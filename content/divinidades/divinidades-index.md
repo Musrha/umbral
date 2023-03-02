@@ -1,5 +1,5 @@
 ---
-title: "Divinidades
+title: "Divinidades"
 tags:
 - Divinidades
 - Índices
