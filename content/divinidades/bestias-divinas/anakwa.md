@@ -1,5 +1,5 @@
 ---
-title: "anakwa"
+title: "Anakwa"
 tags:
 - Divinidades
 - Bestias Divinas

@@ -1,5 +1,5 @@
 ---
-title: "auro"
+title: "Auro"
 tags:
 - Divinidades
 - Bestias Divinas
