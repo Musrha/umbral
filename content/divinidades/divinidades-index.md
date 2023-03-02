@@ -2,9 +2,10 @@
 title: "Divinidades
 tags:
 - Divinidades
-- Index
+- Índices
 - tag3
 ---
+
 >[!quote]
 > _Dioses. No puedes vivir con ellos ni puedes vivir sin ellos, ¿cierto?_
 >\- Parangón de la Vía Norte, Clérigo y filósofo asceta
