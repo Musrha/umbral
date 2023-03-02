@@ -13,7 +13,7 @@ Poderosos artefactos, dispersos por Levaryck, cuya utilidad principal (según co
 
 -Segunda: Custodiada por la Guardiana, fue insertada en su báculo
 
--Tercera: Fue recientemente robada por un [[la-comparsa-locuente|enemigo]]
+-Tercera: Fue recientemente robada por un [[comparsa-locuente|enemigo]]
 
 -Cuarta: Obtenida de las hadas de los túmulos, actualmente inerte y bajo custodia del Umbral.
 

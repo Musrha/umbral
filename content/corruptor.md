@@ -11,7 +11,9 @@ El Corruptor
 Main
 ----
 
-> Malenon, respondiste ocho preguntas mías hace 10 horas. Y ahora vas a morir - El Corruptor -
+>[!quote]
+>_Malenon, respondiste ocho preguntas mías hace 10 horas. Y ahora vas a morir._
+>\- El Corruptor
 
 El Corruptor
 ============

@@ -1,9 +1,9 @@
 ---
 title: "La Comparsa Locuente"
 tags:
-- tag1
-- tag2
-- tag3
+- Enemigos
+- Comparsa Locuente
+- Habitantes
 ---
 ![embedded image](https://assets.legendkeeper.com/d1954f72-5bba-43fc-a17d-d86a8fa4e5c5.jpg "Attachment")
 
