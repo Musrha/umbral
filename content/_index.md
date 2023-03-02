@@ -55,7 +55,10 @@ Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras
 
 Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [[guardianes|Guardianes]] aprendieron a usarlo a un nivel mucho mayor que el actual.
 
->[!info] Secciones
->[[habitantes/habitantes-index|Habitantes]]
->[[habitantes/maestros/maestros-index|Maestros]]
->[[divinidades/divinidades-index|Divinidades]]
+> [!info] Secciones
+> 
+> [[divinidades/divinidades-index|Divinidades]]
+> 
+> [[habitantes/habitantes-index|Habitantes]]
+> 
+> [[habitantes/maestros/maestros-index|Maestros]]
