@@ -1,5 +1,5 @@
 ---
-title: "cryrul"
+title: "Cryrul"
 tags:
 - tag1
 - tag2
