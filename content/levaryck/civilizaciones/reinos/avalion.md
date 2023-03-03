@@ -42,7 +42,7 @@ Destaca el famoso héroe y líder de la orden **Sir Arcturus Lancelot de Lionhar
 
 Siguen la fe de la [Ark de Lionhart](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckzd92pah006s036c4vkawaeo/), representada por la Espada, a la que deben su apellido, y de la que incluso a día de hoy se desconoce su género, y aunque hay debate al respecto, se asume que era una mujer. Según cuenta la leyenda, yace en el fondo del lago central de la isla junto con su legendaria espada Corazón de León. Los paladines de Lionhart visten armaduras doradas y lucen el símbolo de su familia: el rostro de un león en el centro de un sol.
 
-La casa Lionhart ha iniciado recientemente los ataques contra la tierra de [Solanza](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwtt2xtz0002036c5boj5unr/), con Arcturus siendo el primero a la cabeza de las tropas, al parecer por algún pacto antiguo relacionado con el dominio de [Glorius](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx39wdg30006036ckln2ruom/).
+La casa Lionhart ha iniciado recientemente los ataques contra la tierra de [[levaryck/civilizaciones/reinos/glorius/solanza|Solanza]], con Arcturus siendo el primero a la cabeza de las tropas, al parecer por algún pacto antiguo relacionado con el dominio de [[levaryck/civilizaciones/reinos/glorius/glorius-index|Glorius]].
 
 ### **Casa Pellinore**
 

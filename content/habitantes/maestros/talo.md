@@ -24,4 +24,6 @@ Portero borde de la Hermandad, es el primer rostro que observan los aventureros 
 
 **Talo falleció al entrar en el Umbral completamente inestable, llevando consigo a Luma, en una explosión de hilos desvinculantes.** Dejó a Cóclea, quien se cree por muchos que es su hermana Dara, en manos de los aprendices. En el recuerdo de todos está su risa y su voz, la de un incansable vigilante que por todos era amado, quizá sin saberlo.
 
+> [!quote]
 > _A la izquierda del camino, de pronto, observáis una cabaña rústica, hecha completamente a mano. Y en la puerta, una figura de anchos hombros y amplias caderas, arrebujada en una gruesa capa. El anciano, de ojos pequeños y nariz ganchuda, os mira, habiéndoos visto antes que vosotros a él. Su rostro es alargado y sus patillas caen hasta su cuello. Sentado en un pequeño taburete junto a un farol encendido, espera pacientemente, acariciando sobre su regazo una lustrosa gallina dorada._
+

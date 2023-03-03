@@ -7,7 +7,7 @@ tags:
 ---
 ![embedded image](https://assets.legendkeeper.com/b8dcca77-fa85-460a-8013-5d7ea12ac995.png "Attachment")
 
-_Jibón, uno de los Faunales de_ [Cuencaférrea](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx5a39wx0002036cycpwylr9/)_, invitando amablemente a Galletas - cap.38 - Madera de Héroes_
+_Jibón, uno de los Faunales de_ [[levaryck/construcciones/cuencaferrea|Cuencaférrea]]_, invitando amablemente a Galletas - cap.38 - Madera de Héroes_
 
 # Faunales
 

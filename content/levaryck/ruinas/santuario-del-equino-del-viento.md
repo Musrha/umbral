@@ -12,7 +12,7 @@ Santuario del Equino del Viento
 
 # El Santuario del Equino del Viento
 
-Se trata de unas ruinas no muy lejanas a la ciudad de [Alegándria](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckz8pkbjp004a036c6yzifkw8/).
+Se trata de unas ruinas no muy lejanas a la ciudad de [[levaryck/civilizaciones/ciudades/alegandria|Alegándria]].
 
 ## Arquitectura
 

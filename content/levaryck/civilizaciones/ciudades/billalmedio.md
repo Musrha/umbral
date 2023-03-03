@@ -8,7 +8,7 @@ tags:
 Billalmedio
 ![embedded image](https://assets.legendkeeper.com/8f708506-f1ac-47c8-ad59-6caa6f358078.jpg "Attachment")
 
-Villa conocida por su ratafia y moscatell, situada no muy lejos al oeste del [Valle del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1pdt5b0018037c6ke1wqbt/). Su gente vive generalmente de la cosecha, la cual es muy abundante. Es un lugar apacible por lo general, aunque sus habitantes tienden a tener constantes enfrentamientos.
+Villa conocida por su ratafia y moscatell, situada no muy lejos al oeste del [[levaryck/civilizaciones/valle-del-umbral|Valle del Umbral]]. Su gente vive generalmente de la cosecha, la cual es muy abundante. Es un lugar apacible por lo general, aunque sus habitantes tienden a tener constantes enfrentamientos.
 
 Antiguamente, la villa se creó como Billalmedio, pero una disputa entre dos sectores de sus habitantes por hacerse por una hoz que consideraban sagrada, terminó con la división del pueblo en Billarriva y Billavajo.
 

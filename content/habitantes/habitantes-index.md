@@ -13,6 +13,6 @@ Todo ser consciente sirve a un propósito; algunos, sirven al bien común, a la 
 
 Hay prácticamente infinitos seres en Levaryck; siempre podremos conocer un famoso sastre más, la Princesa de una nueva civilización, una criatura aún más antigua y de aún más poder,…
 
-[[habitantes/aventureros-index|Aventureros]]
+[[habitantes/aventureros/aventureros-index|Aventureros]]
 
 [[habitantes/maestros/maestros-index|Maestros]]

@@ -17,7 +17,7 @@ tags:
 
 **Gurfid es afable y bonachón, con voz ruda y porte tosco.** Sus gritos no logran ocultar su gran corazón y su afán por ayudar a los demás. Es un guerrero noble y heroico que no gusta en exceso de vanagloriarse de sus conquistas, salvo por su Tajo del Albor. Confesó recientemente que su ojo no lo perdió en batalla sino de niño, en un accidente con un juguete.
 
-Gurfid Dakare, el maestro guerrero. Antaño un poderoso combatiente, hoy regenta la taberna en [Valle del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky1pdt5b0018037c6ke1wqbt/). Es poco hablador y muy bebedor. Se encarga del abastecimiento de [Hermandad Custodia del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9rh8iy001z036c9lsfyugo/), y, para ello, logró un contrato muy beneficioso con la Compañía Raymond, de [Cirksena](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky4960vf002t037cbaatgffa/). Posee una misteriosa caja mágica de música con la que anima el ambiente en la taberna, a la que llama “Guardiana”.
+Gurfid Dakare, el maestro guerrero. Antaño un poderoso combatiente, hoy regenta la taberna en [[levaryck/civilizaciones/valle-del-umbral|Valle del Umbral]]. Es poco hablador y muy bebedor. Se encarga del abastecimiento de [Hermandad Custodia del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9rh8iy001z036c9lsfyugo/), y, para ello, logró un contrato muy beneficioso con la Compañía Raymond, de [[levaryck/civilizaciones/reinos/cirksena|Cirksena]]. Posee una misteriosa caja mágica de música con la que anima el ambiente en la taberna, a la que llama “Guardiana”.
 
 Su espose, Akane, no es otre que le maestre bárbare.
 

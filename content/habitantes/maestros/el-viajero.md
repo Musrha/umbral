@@ -17,7 +17,7 @@ tags:
 
 **Se encuentra constanteme viajando, recorriendo Levaryck para obtener nuevas leyendas o cuentos para sus conocimientos.** Sin embargo, sin saberse bien cómo lo hace, siempre se le ve en la tienda. Quizá emplee un método de transporte menos rudimentario, o quizá reciba muchos halcones con lo que le llega de fuera. Su nombre, Lamaborg, es desconocido por todos excepto por unos muy, muy pocos.
 
-Pocas cosas se conocen del pasado de este misterioso itinerante, aunque se sabe que rendía culto a [La Dorada](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cl5shrxjc000q028886mjcmk1/) cuando era mas joven.
+Pocas cosas se conocen del pasado de este misterioso itinerante, aunque se sabe que rendía culto a [[divinidades/dioses/la-dorada|La Dorada]] cuando era mas joven.
 
 UPDATE 19/02/2023
 

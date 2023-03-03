@@ -10,13 +10,13 @@ tags:
 
 # Cuencaférrea
 
-Cuencaférrea es una región muy al noreste, muy dentro del océano, donde una gran cuenca rodeada por montañas se abre en el agua, sin que el océano consiga entrar. Entre los valles boscosos de riachuelos salados crecen árboles y prados entre las Agujas, gigantescos pilares de roca acabados en punta donde habitan los [Faunales](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx5a41vq000a036c2q7gfq0m/) en casas de preciosa madera.
+Cuencaférrea es una región muy al noreste, muy dentro del océano, donde una gran cuenca rodeada por montañas se abre en el agua, sin que el océano consiga entrar. Entre los valles boscosos de riachuelos salados crecen árboles y prados entre las Agujas, gigantescos pilares de roca acabados en punta donde habitan los [[habitantes/faunales|Faunales]] en casas de preciosa madera.
 
 Los hogares de los Faunales, todos ellos creados con artesanía detallista de la más rica manufactura, se componen de espirales de escaleras de madera ascendentes, de las cuales penden las casas colgantes. Hay grandes puentes que unen los picos de piedra de Cuencaférrea, y en el centro, una inmensa estatua de Viridio. Al fondo se encuentra
 
 # Origen
 
-Cuencaférrea fue “abierta” o creada por el maestro Viridio cuando los [Guardianes](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9qzav8000n036cj53bcu47/) buscaban nuevos lugares por explorar de [Levaryck](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwl6ccs4000a036cbm61llf5/).
+Cuencaférrea fue “abierta” o creada por el maestro Viridio cuando los [[guardianes|Guardianes]] buscaban nuevos lugares por explorar de [Levaryck](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwl6ccs4000a036cbm61llf5/).
 
 Viridio alcanzó los picos elevados sobre el mar, y sobre ellos, una criatura ahogada, dolida y sangrante; un faunal, probablemente un maldito y olvidado vestigio de un fauno. El mago abrió la cuenca y le otorgó los cuatro Dones. Le entregó la región y creó suficientes seres como para que se reprodujeran y vivieran.
 
