@@ -7,7 +7,7 @@ tags:
 ---
 # **Cirksena**
 
-**Localización:** Muy al este, limítrofe con el [[bosque-de-valris|Bosque de Valris]].
+**Localización:** Muy al este, limítrofe con el [[levaryck/civilizaciones/lugares-naturales/bosque-de-valris|Bosque de Valris]].
 
 **Geografía:** Una región de simples llanuras y lomas de clima templado, ideal para la agricultura.
 

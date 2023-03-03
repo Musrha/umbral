@@ -24,7 +24,7 @@ La Depravación es solo una, pero su consciencia puede dividirse. Así, la Consc
 
 La Depravación no tiene un origen conocido. Quizá es una fuerza más antigua que muchas partes del [[multiverso|Multiverso]], que ha tomado consciencia simplemente por su mera existencia. Es imposible saber cuántos Universos ha debido de consumir, pero lo cierto es que ninguno parece ser su “origen”.
 
-En el pasado, probablemente más de 900 años atrás, mientras [[la-ciudadela-del-umbral|La Ciudadela del Umbral]] aún existía, un poderoso mago, probablemente uno de los más avanzados [[aventureros|Aventureros]] del Umbral robó la Sexta Semilla con el objetivo de construir su propio Umbral, o sencillamente ver qué había más allá. Fue al lugar donde actualmente existe el [[bosque-de-valris|Bosque de Valris]] y construyó una Puerta de Hierro, bajo la que enterró la Semilla.
+En el pasado, probablemente más de 900 años atrás, mientras [[la-ciudadela-del-umbral|La Ciudadela del Umbral]] aún existía, un poderoso mago, probablemente uno de los más avanzados [[aventureros|Aventureros]] del Umbral robó la Sexta Semilla con el objetivo de construir su propio Umbral, o sencillamente ver qué había más allá. Fue al lugar donde actualmente existe el [[levaryck/civilizaciones/lugares-naturales/bosque-de-valris|Bosque de Valris]] y construyó una Puerta de Hierro, bajo la que enterró la Semilla.
 
 Cuando abrió el Umbral, sin embargo, sin conocer todo lo que podía hacer, siendo inconsciente y sin dominar más que el Conjuro Básico, encontró al otro lado un mundo blanco y vacío, sin nada en su interior. Solamente… Depravación.
 
