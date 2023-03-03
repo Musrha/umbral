@@ -6,8 +6,7 @@ tags:
 - tag3
 ---
 
-
-**Localización:** Al sur limítrofe con [Alta Ciudad](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckz8afwp8003c036c4hzh0yes/).
+**Localización:** Al sur limítrofe con [[levaryck/civilizaciones/ciudades/alta-ciudad|Alta Ciudad]].
 
 **Geografía:** Un extenso desierto de arena blanca en forma de bota que encierra toda una serie de cañones interconectados por los que transitan las rutas de comercio en la zona meridional del continente.
 

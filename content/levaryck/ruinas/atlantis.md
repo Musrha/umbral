@@ -7,7 +7,7 @@ tags:
 ---
 
 
-[[divinidades/bestias-divinas/atlantis|Atlante]], la bestia divina con forma de Medusa Marina, reposa en el fondo del lecho marino, rodeando y dando cobijo a una ciudad de grandes dimensiones que se encuentra directamente en su interior.
+[[divinidades/bestias-divinas/atlantis-bestia|Atlante]], la bestia divina con forma de Medusa Marina, reposa en el fondo del lecho marino, rodeando y dando cobijo a una ciudad de grandes dimensiones que se encuentra directamente en su interior.
 
 Dentro de esta ciudad se puede respirar con normalidad, todo esta abandonado y en ruinas, desde edificios a objetos aunque todo se mantiene limpio y ordenado dentro de su antigüedad.
 
