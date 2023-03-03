@@ -22,3 +22,7 @@ Se desconoce toda la influencia que pudo llegar a tener el Umbral, ya que en poc
 -   [[levaryck/construcciones/atalayas|Las Atalayas]]
 -   Bases estratégicas
 -   Otras civilizaciones completas
+
+> [!info]+ Lista de constucciones
+> [[levaryck/construcciones/atalayas|Las Atalayas]], [[levaryck/construcciones/cuencaferrea|Cuencaférrea]], [[levaryck/construcciones/el-observatorio|El Observatorio]]
+

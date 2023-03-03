@@ -24,6 +24,10 @@ El Mundo de Levaryck es uno entre los infinitos Mundos que conforman el [Multive
 
 ## Disposición
 
-De entre muchas de las segmentaciones, podríamos dividir Levaryck en [Civilizaciones](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwrzz1vl000y036cl2pw8rrv/) de todas las índoles, culturas y tradiciones. La geografía de Levaryck es confusa y difícil de ubicar; no siempre al norte hace frío y en los meridianos es templado. En ocasiones, el clima se muestra caprichoso.
+De entre muchas de las segmentaciones, podríamos dividir Levaryck en [[levaryck/civilizaciones/civilizaciones-index|Civilizaciones]] de todas las índoles, culturas y tradiciones. La geografía de Levaryck es confusa y difícil de ubicar; no siempre al norte hace frío y en los meridianos es templado. En ocasiones, el clima se muestra caprichoso.
 
 No es fácil cartografiar Levaryck, aunque puedes hacerte una idea de como se disponen gran parte de las civilizaciones más prósperas en el **Atlas**.
+
+> [!info]
+> [[levaryck/civilizaciones/civilizaciones-index|Civilizaciones]], [[levaryck/construcciones/construcciones-index|Construcciones]], [[levaryck/eventos/eventos-index|Eventos]], [[levaryck/ruinas/ruinas-index|Ruinas]]
+
