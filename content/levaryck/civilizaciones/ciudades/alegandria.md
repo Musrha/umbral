@@ -20,7 +20,7 @@ Dada la naturaleza de la plaga de la Muerte Descendente que asola el lugar, en l
 
 Alegándria se construyó cerca de las viejas ruinas de una antigua civilización, hará unos doscientos años. La ciudad logró instaurar su propia cultura, aunque han
 
-No muy lejos de allí se puede encontrar el [[levaryck/ruinas/santuario-del-equino-del-viento|Santuario del Equino del Viento]], que se creen antiguas ruinas de [Sachoa](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckzoda46z000c036cmy5mn90w/), _(cap.72 - Quitándole hierro al asunto)._
+No muy lejos de allí se puede encontrar el [[levaryck/ruinas/santuario-del-equino-del-viento|Santuario del Equino del Viento]], que se creen antiguas ruinas de [[habitantes/sachoa|Sachoa]], _(cap.72 - Quitándole hierro al asunto)._
 
 El tiempo la aisló por las distancias a las urbes más centristas. Hace tiempo, Alegándria fue presa de una plaga; unas criaturas monstruosas, como grandes murciélagos insectoides de infernales garras y colas de escorpión.
 

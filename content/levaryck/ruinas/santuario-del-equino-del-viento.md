@@ -26,7 +26,7 @@ En el interior, una bóveda de tierra envuelve una descomunal habitación, donde
 
 ## Historia
 
-Se cree que es una de las muchas ruinas de los [[sachoa|Sachoa]], tiempo atrás construida como un altar a una Divinidad. Se cree que los Sachoa adoraban a los kelpies de hierba, los seres capaz de fundirse con el verdor del campo y moverse con el aire. Tanto era, que para poder alcanzar tal santuario, tenían que ofrecer sus armas a la Divinidad que allí habitaba.
+Se cree que es una de las muchas ruinas de los [[habitantes/sachoa|Sachoa]], tiempo atrás construida como un altar a una Divinidad. Se cree que los Sachoa adoraban a los kelpies de hierba, los seres capaz de fundirse con el verdor del campo y moverse con el aire. Tanto era, que para poder alcanzar tal santuario, tenían que ofrecer sus armas a la Divinidad que allí habitaba.
 
 En el interior habita [[divinidades/bestias-divinas/auro|Auro]], una de las [[divinidades/bestias-divinas/bestias-divinas-index|Bestias Divinas]], un gran Kelpie de aire conformado por miles de otros equinos de viento. No se sabe desde hace cuanto que la Bestia habita allí.
 

@@ -21,7 +21,7 @@ Con el tiempo, los cuatro comenzaron a explorar e investigar los límites de est
 
 Construyeron sobre aquél lugar una ciudad. Los grandes gólems de Cobalto trajeron los bloques de piedra. La ingeniería y ciencia de Viridio dieron forma a la ciudad anillada, y la voz de Lila convocó al mundo entero. Una vez estuvo construida, con el Umbral como centro bajo sus inmensas salas, todo el mundo fue invitado.
 
-La Ciudadela del Umbral acogió a todo aquél que buscase un hogar, todo aquél que quisiese valerse por sí mismo, y les dio un cometido. Los Aventureros, los Adalides del Umbral, armados por [[forjadores|Forjadores]] y bendecidos por las Altas Magias viajaron por el mundo y lo unieron, estableciéndose en [[levaryck/construcciones/atalayas|Las Atalayas]], grandes construcciones en los límites del Mundo para organizar actuaciones rápidas.
+La Ciudadela del Umbral acogió a todo aquél que buscase un hogar, todo aquél que quisiese valerse por sí mismo, y les dio un cometido. Los Aventureros, los Adalides del Umbral, armados por [[habitantes/forjadores|Forjadores]] y bendecidos por las Altas Magias viajaron por el mundo y lo unieron, estableciéndose en [[levaryck/construcciones/atalayas|Las Atalayas]], grandes construcciones en los límites del Mundo para organizar actuaciones rápidas.
 
 De esta manera, el Mundo entero estuvo bajo la rápida actuación del Umbral. En cualquier lugar se reconocía el brillante símbolo de la constelación. Ante cualquier maldición, enemigo o ataque, allí estaban, los valientes guerreros del Umbral para presentar batalla. Enviados a misiones del más alto estandarte o a tareas rutinarias, no importaba; cualquiera era bienvenido.
 

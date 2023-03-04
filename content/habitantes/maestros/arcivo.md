@@ -14,7 +14,7 @@ tags:
 
 **Arcivo se encarga de los registros, cuentas, tratados, contratos y permisos de la Hermandad Custodia**; básicamente, todas las gestiones necesarias para la dirección de la organización y la potestad de la región. Todo el trabajo administrativo que no se ve es dirigido por su silenciosa pluma. Almacena aquello que traen los aprendices de sus misiones y redacta los resúmenes de las mismas, cuando nadie más se ofrece a hacerlo.
 
-**Es el único maestro que definitivamente ha dejado las armas**, pues su látigo quedó destruido tiempo atrás. Sin embargo, ejerce de investigador, recopilador y restaurador arqueológico, siempre con su servicial porte. Es aficionado también al dibujo y la cartografía, pero no muestra sus obras. Allá en sus años mozos, perteneció a un ilustre gremio de arqueólogos cuya insignia ha debido de perder. El trabajo de su vida es sobre los [[sachoa|Sachoa]] y las [[divinidades/bestias-divinas/bestias-divinas-index|Bestias Divinas]].
+**Es el único maestro que definitivamente ha dejado las armas**, pues su látigo quedó destruido tiempo atrás. Sin embargo, ejerce de investigador, recopilador y restaurador arqueológico, siempre con su servicial porte. Es aficionado también al dibujo y la cartografía, pero no muestra sus obras. Allá en sus años mozos, perteneció a un ilustre gremio de arqueólogos cuya insignia ha debido de perder. El trabajo de su vida es sobre los [[habitantes/sachoa|Sachoa]] y las [[divinidades/bestias-divinas/bestias-divinas-index|Bestias Divinas]].
 
 Escriba de la Hermandad Custodia, apunta los nombres y escribe las esquelas. - Se encarga de las cuentas y los registros. Todo lo que hay escrito es obra suya. - Su clase es
 
