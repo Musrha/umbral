@@ -6,4 +6,6 @@ tags:
 - tag3
 ---
 
-[[habitantes/aventureros/firio|Firio]]
+> [!info] Listado de Aventureros
+> [[habitantes/aventureros/firio|Firio]], [[habitantes/aventureros/hugo|Hugo]], [[habitantes/aventureros/ofie|Ofie]]
+

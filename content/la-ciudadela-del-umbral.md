@@ -9,7 +9,7 @@ tags:
 
 # **La Ciudadela del Umbral**
 
-La Ciudadela del Umbral fue antaño el mayor de los [[levaryck/civilizaciones/civilizaciones-index]] del Mundo de [[levaryck/levaryck-index|Levaryck]]. Fue la cúspide de la civilización, de la ciencia y de la magia, el Centro del Mundo civilizado. Se dice que el Umbral tenía influencia en todos lugares, en cada punto de todo reino. Casi cualquier decisión de los demás reinos tenían que entrar en convergencia con el gobierno del Umbral.
+La Ciudadela del Umbral fue antaño el mayor de las [[levaryck/civilizaciones/civilizaciones-index|Civilizaciones]] del Mundo de [[levaryck/levaryck-index|Levaryck]]. Fue la cúspide de la civilización, de la ciencia y de la magia, el Centro del Mundo civilizado. Se dice que el Umbral tenía influencia en todos lugares, en cada punto de todo reino. Casi cualquier decisión de los demás reinos tenían que entrar en convergencia con el gobierno del Umbral.
 
 La Ciudadela estaba gobernada por los [[guardianes|Guardianes]], los cuales emplearon las grandes artes de las que dispusieron para regir su estado. En el momento más álgido para el Umbral, los cuatro fueron de alguna manera considerados “Monarcas” de Levaryck, aunque nunca Reyes ni Reinas.
 
