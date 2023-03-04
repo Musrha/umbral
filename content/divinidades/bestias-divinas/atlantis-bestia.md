@@ -5,7 +5,7 @@ tags:
 - bestias divinas
 - tag3
 ---
-# **Bestia-Ciudad** [Atlantis](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cl5sil2lh00220288tw7wxuxy/)
+# **Bestia-Ciudad** [[levaryck/ruinas/atlantis|Atlantis]]
 
 La Bestia Divina Atlantis es una medusa colosal, sumergida en el oceano, protegiendo de la presión aplastante del agua a la ciudad homonima que yace en su interior
 

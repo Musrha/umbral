@@ -29,7 +29,7 @@ tags:
 > 
 > _decide el sendero a tomar._
 > 
-> _-_ Lo escuché en un sueño, por _Anacardo._
+> _-_ Lo escuché en un sueño, por _[[habitantes/maestros/anacardo|Anacardo]]._
 
 Los aprendices conocieron a la Comitiva de los Mascarrocas, una aldea nómada que había sido devastada y allí, y a Eris cazadora de Colosos.
 

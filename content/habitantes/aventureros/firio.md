@@ -26,4 +26,4 @@ No abandonaría su misión, seguiría defendiendo a los débiles allá donde lo 
   - A Dobek le dejó un traje de ninja de isla piedra, para que le ayude a evitar los problemas.
   - A Kastrok, Axucory, Arthur y Cristane sólo les pudo colocar en sus osarios una rosa iluminada por la luz morada de los titanes y el deseo de que encuentren la paz de Nissa allá donde se encuentren.
 
-Corren historias de las aventuras de Firio, algunas más heroicas, otras más absurdas. A veces los conocen como el duelista de Nissa, otras como el rebelde de Cirksena o simplemente pollo a la Cirksena, pero él siempre se presentara como Firio deBalamar antiguo duelista de Umbral.
+Corren historias de las aventuras de Firio, algunas más heroicas, otras más absurdas. A veces los conocen como el duelista de [[divinidades/dioses/nissa|Nissa]], otras como el rebelde de Cirksena o simplemente pollo a la Cirksena, pero él siempre se presentara como Firio deBalamar antiguo duelista de Umbral.
