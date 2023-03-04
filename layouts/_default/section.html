@@ -4,6 +4,14 @@
 
 <body>
 {{partial "search.html" .}}
+<<<<<<< Updated upstream
+=======
+
+<main class="main-container"><div class="blur-element"></div>
+<aside class="main-aside disabled">
+    {{ partial "menu" . }}
+</aside>
+>>>>>>> Stashed changes
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
@@ -18,4 +26,9 @@
     {{partial "contact.html" .}}
 </div>
 </body>
+<<<<<<< Updated upstream
+=======
+{{ $js := resources.Get "js/menu.js" }}
+<script src="{{ $js.Permalink }}"></script>
+>>>>>>> Stashed changes
 </html>

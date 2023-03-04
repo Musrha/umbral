@@ -6,6 +6,14 @@
 {{partial "search.html" .}}
 <div class="singlePage">
     <!-- Begin actual content -->
+<<<<<<< Updated upstream
+=======
+  <main class="main-container"><div class="blur-element"></div>
+    <aside class="main-aside disabled">
+        {{ partial "menu" . }}
+    </aside>
+    <div class="singlePage">
+>>>>>>> Stashed changes
     {{partial "header.html" .}}
     <article>
         {{partial "toc.html" .}}
@@ -13,8 +21,18 @@
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
         {{end}}
+<<<<<<< Updated upstream
     </article>
     {{partial "footerIndex.html" .}}
 </div>
 </body>
+=======
+      </article>
+      {{partial "footerIndex.html" .}}
+    </div>
+  </main>
+  </body>
+{{ $js := resources.Get "js/menu.js" }}
+<script src="{{ $js.Permalink }}"></script>
+>>>>>>> Stashed changes
 </html>
