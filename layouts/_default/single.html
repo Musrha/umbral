@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
 {{ partial "head.html" . }}
-
 <body>
 {{partial "search.html" .}}
 <main class="main-container"><div class="blur-element"></div>
-<aside class="main-aside disabled">
-    {{ partial "menu" . }}
-</aside>
+    <aside class="main-aside disabled">
+        {{ partial "menu" . }}
+    </aside>
 <div class="singlePage">
     <!-- Begin actual content -->
     {{partial "header.html" .}}
@@ -19,14 +18,7 @@
       </p>
       <ul class="tags">
           {{ range (.GetTerms "tags") }}
-          <li><a href="{{ .Permalink }}">
-          {{if (eq $.Site.Language.Lang "en")}}
-            {{ .LinkTitle | humanize }}
-          {{else}}
-            {{ .LinkTitle }}
-          {{end}}
-            </a>
-           </li>
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
           {{ end }}
       </ul>
       {{partial "toc.html" .}}
@@ -38,4 +30,5 @@
 </body>
 {{ $js := resources.Get "js/menu.js" }}
 <script src="{{ $js.Permalink }}"></script>
+{{/*  <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>  */}}
 </html>
