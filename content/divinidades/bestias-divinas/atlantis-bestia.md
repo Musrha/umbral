@@ -1,8 +1,8 @@
 ---
 title: "Atlantis, Bestia-Ciudad"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 # **Bestia-Ciudad** [Atlantis](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cl5sil2lh00220288tw7wxuxy/)

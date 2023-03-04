@@ -17,3 +17,5 @@ Con una actitud jovial y optimismo ridiculo. Su fe ciega en un destino que no co
 Tras varios encontronazos con las Brujas de Walpurgis ha acabado maldita hasta el punto de perder propiedad de su corazón y estar cerca de quedarse sin el favor de su diosa  
   
 A dia de hoy a pesar de hacer perdido el pie izquierdo ha ganado confianza en si misma, y con una relación mas sana ante su destino y su diosa ahora se corona con una aureola de estrellas
+
+[[habitantes/aventureros/hugo|Hugo Montebello]]

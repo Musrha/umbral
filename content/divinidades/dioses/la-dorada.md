@@ -1,7 +1,7 @@
 ---
 title: "La Dorada"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

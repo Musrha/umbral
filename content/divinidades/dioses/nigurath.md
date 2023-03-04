@@ -1,7 +1,7 @@
 ---
 title: "Nigürath"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

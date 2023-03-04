@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

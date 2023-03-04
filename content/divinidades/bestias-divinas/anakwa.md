@@ -1,8 +1,8 @@
 ---
 title: "Anakwa"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 

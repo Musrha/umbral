@@ -1,8 +1,8 @@
 ---
 title: "Berkiades"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 ## **Berkiades de las Cadenas Funestas.**

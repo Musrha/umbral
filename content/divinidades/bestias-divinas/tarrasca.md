@@ -1,8 +1,8 @@
 ---
 title: "La Tarrasca"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 ![embedded image](https://assets.legendkeeper.com/127ea69e-67ae-47ae-8ce9-0dd55b5b73b2.png "Attachment")

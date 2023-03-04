@@ -1,7 +1,7 @@
 ---
 title: "Dunaan"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

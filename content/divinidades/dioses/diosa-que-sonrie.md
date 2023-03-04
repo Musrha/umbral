@@ -1,7 +1,7 @@
 ---
 title: "La Diosa que Sonríe"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

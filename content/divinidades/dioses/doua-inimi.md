@@ -1,7 +1,7 @@
 ---
 title: "Două-Inimi"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

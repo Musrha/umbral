@@ -1,7 +1,7 @@
 ---
 title: "Abisales"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "faunales"
+title: "Faunales"
 tags:
 - Habitantes
 - tag2

@@ -1,7 +1,7 @@
 ---
 title: "Namanoche"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

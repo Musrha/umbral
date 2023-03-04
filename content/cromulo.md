@@ -1,7 +1,7 @@
 ---
 title: "Crómulo"
 tags:
-- Divinidades
+- divinidades
 - Comparsa Locuente
 - tag3
 ---

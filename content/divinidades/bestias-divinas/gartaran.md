@@ -1,8 +1,8 @@
 ---
 title: "Gartarán, el Rey de la Ola"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 # Gartarán, el Rey de la Ola

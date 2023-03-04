@@ -1,8 +1,8 @@
 ---
 title: "Auro"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 (Próximamente)

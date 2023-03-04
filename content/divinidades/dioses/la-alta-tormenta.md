@@ -1,7 +1,7 @@
 ---
 title: "La Alta Tormenta"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

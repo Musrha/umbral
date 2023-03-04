@@ -1,7 +1,7 @@
 ---
 title: "Nissa"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

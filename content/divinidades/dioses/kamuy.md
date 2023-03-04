@@ -1,7 +1,7 @@
 ---
 title: "Los Kamuy"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

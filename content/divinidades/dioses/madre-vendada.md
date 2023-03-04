@@ -1,7 +1,7 @@
 ---
 title: "La Madre Vendada"
 tags:
-- Divinidades
+- divinidades
 - Dioses
 - tag3
 ---

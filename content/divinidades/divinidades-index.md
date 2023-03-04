@@ -1,7 +1,7 @@
 ---
 title: "Divinidades"
 tags:
-- Divinidades
+- divinidades
 - Índices
 - tag3
 ---

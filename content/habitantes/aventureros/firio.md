@@ -1,8 +1,10 @@
 ---
 title: "Firio deBalamar" 
 tags:
- - Aventurero
- - Retirado
+- habitantes
+- umbral
+- aventureros
+- duelistas arcanos
 ---
 
 

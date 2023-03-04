@@ -1,8 +1,8 @@
 ---
 title: "Bestias Divinas"
 tags:
-- Divinidades
-- Bestias Divinas
+- divinidades
+- bestias divinas
 - tag3
 ---
 >[!quote]
