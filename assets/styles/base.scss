@@ -6,8 +6,11 @@
   --font-mono: "Fira Code"
 }
 
+
+
 // typography
 html {
+  height: -webkit-fill-available;
   scroll-behavior: smooth;
   &:lang(ar) {
     & p, & h1, & h2, & h3, article, header {
@@ -20,23 +23,38 @@ html {
   }
 }
 
+
 .singlePage {
-  padding: 4em 30vw;
-  margin: 0 auto;
-  max-width: 1000px;
+  padding: 1em 20vw;
+  padding-right: 5vw;
+  @media all and (max-width: 1400px) {
+    padding-left: 25vw;
+  }
   @media all and (max-width: 1200px) {
+    padding-left: 30vw;
+  }
+  @media all and (max-width: 1000px) {
     padding: 25px 5vw;
   }
 }
 
 
 body {
+  background-color: var(--light);
+  box-sizing: border-box;
   margin: 0;
-  height: 100vh;
   width: 100vw;
   max-width: 100%;
-  box-sizing: border-box;
-  background-color: var(--light);
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh);
+  height: -webkit-fill-available;
+  @media all and (min-width: 1000px) {
+    font-size: 1.1rem;
+  }
+  @media all and (min-width: 1200px) {
+    font-size: 1.15rem;
+  }
 }
 
 h1, h2, h3, h4, h5, h6, thead {
@@ -66,6 +84,9 @@ p, ul, text, a, tr, td, li, ol, ul {
   margin: revert;
   padding: revert;
 }
+// article>ul{
+//   margin-top: 0px;
+// }
 
 tbody, li, p {
   line-height: 1.5em;
@@ -91,7 +112,7 @@ tbody, li, p {
 
 #TableOfContents > ol {
   counter-reset: section;
-  margin-left: 0;
+  margin-left: 0em;
   padding-left: 1.5em;
   & > li {
     counter-increment: section;
@@ -144,7 +165,7 @@ sup {
 }
 
 blockquote {
-  margin-left: 0;
+  margin-left: 0em;
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
@@ -182,12 +203,12 @@ blockquote {
 
 article {
   & > h1 {
-    margin-top: 2em;
+    // margin-top: 1.5em;
     font-size: 2em;
   }
-
+  
   & > .meta {
-    margin: 0 0 1em 0;
+    margin: 0.5em 0 1.5em 0;
     opacity: 0.7;
   }
 
@@ -196,18 +217,18 @@ article {
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
+      // background-color: transparentize(#8f9fa9, 0.85);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent;
+        background-color: transparent; 
       }
     }
   }
-
+  
   & p {
     overflow-wrap: anywhere;
   }
@@ -297,15 +318,17 @@ footer {
   text-align: center;
   & ul {
     padding-left: 0;
-  }
+  } 
 }
 
 hr {
-  width: 100%;
-  margin: 2em auto;
-  height: 1px;
-  border: none;
-  background-color: var(--outlinegray);
+  width: 25%;
+  margin: 4em auto;
+  height: 2px;
+  border-radius: 1px;
+  border-width: 0;
+  color: var(--dark);
+  background-color: var(--dark);
 }
 
 .page-end {
@@ -423,7 +446,7 @@ header {
     margin-left: auto;
     margin-right: auto;
 
-    @media all and (max-width: 1200px) {
+    @media all and (max-width: 1000px) {
       width: 90%;
     }
 
@@ -509,7 +532,7 @@ header {
 
   & > .section {
     display: flex;
-    align-items: center;
+    align-items: center; 
 
     @media all and (max-width: 600px) {
       & .tags {
@@ -521,18 +544,18 @@ header {
       font-weight: 700;
       margin: 0;
     }
-
+    
     & p {
       margin: 0;
       padding-right: 1em;
-      flex-basis: 6em;
+      flex-basis: 6em; 
     }
   }
 
   & h3 {
     opacity: 1;
     font-weight: 700;
-    margin: 0;
+    margin: 0em;
   }
 
   & .meta {
@@ -570,7 +593,7 @@ header {
   transition: opacity 0.2s ease, transform 0.2s ease;
   user-select: none;
   overflow-wrap: anywhere;
-  box-shadow: 6px 6px 36px 0 rgba(0,0,0,0.25);
+  box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
 
   @media all and (max-width: 600px) {
     display: none !important;
@@ -588,7 +611,7 @@ header {
     margin: 0.25rem 0;
   }
 
-  & .meta {
+  & > .meta {
     margin-top: 0.25rem;
     opacity: 0.5;
     font-family: var(--font-mono);
@@ -598,7 +621,7 @@ header {
   & > p {
     margin: 0;
     padding: 0.5rem 0;
-  }
+  } 
 
   & > p, & > a {
     font-size: 1rem;
@@ -619,7 +642,7 @@ header {
   }
 }
 
-mark {
-  background-color: var(--highlighted);
-  color: var(--gray);
+
+li{
+  margin: 5px 0;
 }
