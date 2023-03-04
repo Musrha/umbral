@@ -57,7 +57,7 @@ Es posible que antaño fuese más libre o más restrictivo, pero no se tienen da
 
 > [!info] Secciones
 > 
-> [[divinidades/_index|Divinidades]]
+> [[divinidades/divinidades-index|Divinidades]]
 > 
 > [[habitantes/habitantes-index|Habitantes]]
 > 
