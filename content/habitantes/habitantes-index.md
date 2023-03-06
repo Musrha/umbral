@@ -16,3 +16,5 @@ Hay prácticamente infinitos seres en Levaryck; siempre podremos conocer un famo
 [[habitantes/aventureros/aventureros-index|Aventureros]]
 
 [[habitantes/maestros/maestros-index|Maestros]]
+
+[[habitantes/otros-habitantes/otros-habitantes-index|Otros Habitantes]]

@@ -23,6 +23,6 @@ Poderosos artefactos, dispersos por Levaryck, cuya utilidad principal (según co
 
 -Séptima:
 
--Octava: [[scarlett|Una sorpresa inesperada]]
+-Octava: [[habitantes/otros-habitantes/scarlet|Una sorpresa inesperada]]
 
 Se sabe que hay un mapa, en custodia de Arcivo, que señala la posición de todas las semillas y atalayas, pero está desactualizado.
