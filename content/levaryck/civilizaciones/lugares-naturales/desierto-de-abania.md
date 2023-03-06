@@ -31,6 +31,6 @@ tags:
 > 
 > _-_ Lo escuché en un sueño, por _[[habitantes/maestros/anacardo|Anacardo]]._
 
-Los aprendices conocieron a la Comitiva de los Mascarrocas, una aldea nómada que había sido devastada y allí, y a Eris cazadora de Colosos.
+Los aprendices conocieron a la Comitiva de los Mascarrocas, una aldea nómada que había sido devastada y allí, y a [[habitantes/eris|Eris cazadora de Colosos]].
 
 Su objetivo era encontrar un Cristal de Vitalidad de los titanes, para realizar el ritual de la prístina argamasa.

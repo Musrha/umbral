@@ -25,4 +25,4 @@ Poderosos artefactos, dispersos por Levaryck, cuya utilidad principal (según co
 
 -Octava: [[habitantes/otros-habitantes/scarlet|Una sorpresa inesperada]]
 
-Se sabe que hay un mapa, en custodia de Arcivo, que señala la posición de todas las semillas y atalayas, pero está desactualizado.
+Se sabe que hay un mapa, en custodia de [[habitantes/maestros/arcivo|Arcivo]], que señala la posición de todas las semillas y atalayas, pero está desactualizado.

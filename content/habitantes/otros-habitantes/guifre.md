@@ -12,7 +12,7 @@ tags:
 > _"Va, va, va, menos llantos, gallifardeus, que sobran aquí bocas que alimentar y faltan manos para llenar tiestos"_
 > \- Guifré a sus congéneres
 
-Guifré, o Willfred, o Guifredo, o Gruifed es un mediano obrero de Billalmedio. Capataz de la trabajadora cuadrilla de medianos obreros y manitas (conformada por varios medianos y un orco que dice serlo), ha estado a cargo de las actividades de mantenimiento del día a día de Umbral durante los últimos tiempos.
+Guifré, o Willfred, o Guifredo, o Gruifed es un mediano obrero de [[levaryck/civilizaciones/ciudades/billalmedio|Billalmedio]]. Capataz de la trabajadora cuadrilla de medianos obreros y manitas (conformada por varios medianos y un orco que dice serlo), ha estado a cargo de las actividades de mantenimiento del día a día de Umbral durante los últimos tiempos.
 
 Hijo pródigo del pueblo, ha estado ayudando a la reconstrucción de la ciudadela desde hace más de un año, desde que los aprendices de Umbral ayudasen a la reconstrucción y unificación de los dos pueblos, Billariva y Billavajo. Desde entonces ha trabajado en el levantamiento del castillo, la disposición de los barracones y en el sustento de los habitantes.
 

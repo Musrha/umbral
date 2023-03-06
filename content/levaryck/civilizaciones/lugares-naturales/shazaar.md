@@ -10,6 +10,6 @@ tags:
 
 Peligrosas tierras de esclavistas.
 
-cavernas de hielo compacto bajo la arena, para encontrar una flor que guardaba una importante toxina. Esta era la última oportunidad de Herbasilio.
+cavernas de hielo compacto bajo la arena, para encontrar una flor que guardaba una importante toxina. Esta era la última oportunidad de [[habitantes/otros-habitantes/herbasilio|Herbasilio]].
 
 inmensas dunas de arena móviles, como si algo las recubriese al completo; grandes mantas rayas de arena, seres mágicos de hermoso porte.

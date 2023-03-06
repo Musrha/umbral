@@ -6,7 +6,7 @@ tags:
 - tag3
 ---
 
-Erudita antropóloga. Amiga de Arcivo. Pidió ayuda al umbral para adentrarse y explorar la isla de les náyades. Es una mujer humana, bajita y que anda algo encorvada. Está algo entrada en carnes, pero sigue siendo ágil. Tiene el pelo rizado y abundante, aunque está empezando a canear.
+Erudita antropóloga. Amiga de [[habitantes/maestros/arcivo|Arcivo]]. Pidió ayuda al umbral para adentrarse y explorar la isla de les náyades. Es una mujer humana, bajita y que anda algo encorvada. Está algo entrada en carnes, pero sigue siendo ágil. Tiene el pelo rizado y abundante, aunque está empezando a canear.
 
 Trabaja para la universidad de ciencias humanas de Ylios
 
