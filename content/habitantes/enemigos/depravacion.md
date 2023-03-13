@@ -46,16 +46,16 @@ Cuando el Umbral se reactiva, la Sexta Semilla flaquea, y la Depravación empiez
 
 Cuando Cálix, Laurel, Hirt, Finneus y Máteo llegan al bosque, la Depravación ya ha consumido los alrededores de la puerta de hierro, completamente inactiva, y ella intenta convencerles de que le permitan salir. Ellos, sin quererlo, rompen el sello del Aventurero, quebrando el cristal que la mantenía encerrada, y el monstruo, con toda la masa de dríades que había podido reunir, avanza contra la puerta. Pero las dríades dan su vida y los aprendices tratan de darle muerte. La Depravación, o al menos el cuerpo en este lado, muere. Máteo se queda allí con ella.
 
-El cadáver de Máteo, imbuido en los poderes de [[cromulo|Crómulo]], permanece incorruptible, y lo poco que queda de la Depravación se aloja en él, que es enterrado. Haciendo un pacto con el Demonio, permanece suspendida en su propia mente.
+El cadáver de Máteo, imbuido en los poderes de [[divinidades/demonios/cromulo|Crómulo]], permanece incorruptible, y lo poco que queda de la Depravación se aloja en él, que es enterrado. Haciendo un pacto con el Demonio, permanece suspendida en su propia mente.
 
 ### · Sesión 57 ·
 
 Cuando Laurel se pierde por atravesar la [[Segunda Semilla]], es enviada al mundo de la Depravación, el Mundo “original”, o al menos el lugar desde donde ella ya había cruzado la Sexta Semilla. Mediante los hilos de Nébula, cuando van a rescatarla se encuentran con aquél Aventurero destinado a sellar a la Depravación. A toda costa deben evitar que la Depravación se extienda, que cruce el Umbral, y el Aventurero se sacrifica. No obstante, por desgracia, Dorado es controlado por la Entidad de la Depravación, y sí atraviesa el Umbral.
 
-Las siguientes semanas, Dorado aprende sobre el funcionamiento del Umbral, de las Semillas y también de [[ancalagamenon|Ancálagamenon]], el Archidemonio que vive en el interior de [[galatea|Galatea, la Herrera Legendaria]].
+Las siguientes semanas, Dorado aprende sobre el funcionamiento del Umbral, de las Semillas y también de [[divinidades/demonios/ancalagamenon|Ancálagamenon]], el Archidemonio que vive en el interior de [[galatea|Galatea, la Herrera Legendaria]].
 
 ### · Sesión 101 ·
 
-Cuando los Aprendices recuperan la Segunda Semilla de las manos de [[azazel|Azazel, Custodio del Umbral]], Dorado-Depravación encuentra su oportunidad. Controla a Ancalamegón, obligando a que controle a [[habitantes/otros-habitantes/galatea|Galatea]], y roba la Primera Semilla, atravesando el Umbral para ir al bosque de dríades. Allí, la consciencia de Dorado se une a la de Máteo para formar una Gran Depravación de varios metros de altura, que incluso absorbe al avatar de [[balaam|Balaam]]. Allí, puesto que Hirt había “despertado” a la Primera Semilla, intenta abrir un Umbral, pero gracias a los aprendices que convocan a la Hermandad Custodia del Umbral casi al completo, acaban con la Depravación y la asesinan por siempre.
+Cuando los Aprendices recuperan la Segunda Semilla de las manos de [[azazel|Azazel, Custodio del Umbral]], Dorado-Depravación encuentra su oportunidad. Controla a Ancalamegón, obligando a que controle a [[habitantes/otros-habitantes/galatea|Galatea]], y roba la Primera Semilla, atravesando el Umbral para ir al bosque de dríades. Allí, la consciencia de Dorado se une a la de Máteo para formar una Gran Depravación de varios metros de altura, que incluso absorbe al avatar de [[divinidades/demonios/balaam|Balaam]]. Allí, puesto que Hirt había “despertado” a la Primera Semilla, intenta abrir un Umbral, pero gracias a los aprendices que convocan a la Hermandad Custodia del Umbral casi al completo, acaban con la Depravación y la asesinan por siempre.
 
 ![embedded image](https://assets.legendkeeper.com/0b17c354-33ce-43d0-a850-e9a24a7f4b67.jpg "Attachment")

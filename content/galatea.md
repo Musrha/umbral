@@ -9,4 +9,4 @@ tags:
 
 (Próximamente)
 
-[[ancalagamenon|Ancalagámenon]]
+[[divinidades/demonios/ancalagamenon|Ancalagámenon]]

@@ -13,13 +13,13 @@ Poderosos artefactos, dispersos por Levaryck, cuya utilidad principal (según co
 
 -Segunda: Custodiada por la Guardiana, fue insertada en su báculo
 
--Tercera: Fue recientemente robada por un [[comparsa-locuente|enemigo]]
+-Tercera: Fue recientemente robada por un [[habitantes/enemigos/comparsa-locuente|enemigo]]
 
 -Cuarta: Obtenida de las hadas de los túmulos, actualmente inerte y bajo custodia del Umbral.
 
 -Quinta:
 
--Sexta: Recuperada de un [[la-depravacion|bosque de dríades]], la Guardiana la asimiló en su lanza
+-Sexta: Recuperada de un [[habitantes/enemigos/depravacion|bosque de dríades]], la Guardiana la asimiló en su lanza
 
 -Séptima:
 

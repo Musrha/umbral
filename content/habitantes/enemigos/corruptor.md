@@ -25,7 +25,7 @@ El Corruptor es un ser de gran poder, capaz de imponer maldiciones, trabas y est
 Origen
 ======
 
-Dagramonte es un Brujo que hizo su pacto con [[cromulo|Crómulo]], acogiéndose a la mismísima Edad con un oscuro ritual que ya no se profesa. No se sabe de qué raza fue antaño, pero ha conseguido convertirse en un Brujo de altísimo poder. Su Maestro pereció bajo un grupo de aventureros, por lo que Dagramonte se vio obligado a huir. Sembrando el caos en diferentes lugares, toda su influencia se vio doblegada a una marchita hechicería.
+Dagramonte es un Brujo que hizo su pacto con [[divinidades/demonios/cromulo|Crómulo]], acogiéndose a la mismísima Edad con un oscuro ritual que ya no se profesa. No se sabe de qué raza fue antaño, pero ha conseguido convertirse en un Brujo de altísimo poder. Su Maestro pereció bajo un grupo de aventureros, por lo que Dagramonte se vio obligado a huir. Sembrando el caos en diferentes lugares, toda su influencia se vio doblegada a una marchita hechicería.
 
 Historia a partir del Umbral
 ============================
@@ -48,7 +48,7 @@ Ya ante el Umbral, después de sabotear su viaje, el Corruptor les paralizó a t
 
 ### · Sesión 26 ·
 
-En el interior, descubrió parte de los secretos que guardaba el Umbral, misterios ocultos en la roca antigua. El Corruptor supo, pues [[cromulo|Crómulo]] se lo dijo, que bajo este lugar había algo guardado.
+En el interior, descubrió parte de los secretos que guardaba el Umbral, misterios ocultos en la roca antigua. El Corruptor supo, pues [[divinidades/demonios/cromulo|Crómulo]] se lo dijo, que bajo este lugar había algo guardado.
 
 El Corruptor tomó la forma de Vodor y siguió a los aprendices hacia una mazmorra. En la parte inferior, encontraron el Báculo de Cobalto y el Corruptor desató todo su poder. Finalmente, murió a manos de [[Ithornil]].
 
