@@ -7,7 +7,6 @@ tags:
 - duelistas arcanos
 ---
 
-
 ![embedded image](https://assets.legendkeeper.com/80743bcb-ef02-4128-98eb-f33f0bf9dbe4.png "Attachment")
 
 Firio nació en el seno de una familia noble, con una larga tradición de duelista, los guardianes de Cirksena (título sin valor desde hace generaciones) . Fue entrenado por uno de los mejores duelistas, Railus, y para para el orgullo de su familia alcanzó a los mejores duelistas de [[levaryck/civilizaciones/reinos/cirksena|Cirksena]]. Con las victorias empezó a subestimar a sus rivales y caer en vicios, hasta perder el más simple de los duelos. Tras una temporada viajando por los peores bajos fondos, finalmente escuchó noticias de Umbral y se unió esperando encontrar una forma de recuperar su honor. Firio porta ropajes nobles, pero que se notan gastados por los viajes. Nadie de Umbral debería saber su apellido, pues él nunca lo usa.

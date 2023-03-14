@@ -18,3 +18,5 @@ Hay prácticamente infinitos seres en Levaryck; siempre podremos conocer un famo
 [[habitantes/maestros/maestros-index|Maestros]]
 
 [[habitantes/otros-habitantes/otros-habitantes-index|Otros Habitantes]]
+
+[[habitantes/enemigos/enemigos-index|Enemigos del Umbral]]

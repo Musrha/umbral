@@ -20,8 +20,15 @@ Podrían dividirse en tres grandes grupos; Dioses, Semidioses y Demonios.
 
 ![embedded image](https://assets.legendkeeper.com/1bfeb3a7-1e2d-431f-8f2c-b7b2c59f5218.jpg "Attachment")
 
->[!info]+ [[divinidades/bestias-divinas/bestias-divinas-index|Bestias Divinas]]
+>[!info]- [[divinidades/bestias-divinas/bestias-divinas-index|Bestias Divinas]]
+>
 >[[divinidades/bestias-divinas/anakwa|Anakwa]], [[divinidades/bestias-divinas/atlantis-bestia|Atlantis]], [[divinidades/bestias-divinas/auro|Auro]], [[divinidades/bestias-divinas/berkiades|Berkiades]], [[divinidades/bestias-divinas/gartaran|Gartarán]], [[divinidades/bestias-divinas/tarrasca|La Tarrasca]]
 
->[!info] Dioses
+>[!info]- Dioses
+>
 >[[divinidades/dioses/abisales|Abisales]], [[divinidades/dioses/diosa-que-sonrie|La Diosa que Sonríe]], [[divinidades/dioses/dorei|Dorei]], [[divinidades/dioses/doua-inimi|Două-Inimi]], [[divinidades/dioses/dunaan|Dunaan]], [[divinidades/dioses/kamuy|Los Kamuy]], [[divinidades/dioses/la-alta-tormenta|La Alta Tormenta]], [[divinidades/dioses/la-dorada|La Dorada]], [[divinidades/dioses/madre-vendada|La Madre Vendada]], [[divinidades/dioses/namanoche|Namanoche]], [[divinidades/dioses/nigurath|Nigürath]], [[divinidades/dioses/nissa|Nissa]], [[divinidades/dioses/pristina|Prístina]], [[divinidades/dioses/shar|Shar]], [[divinidades/dioses/sola|Sola]]
+
+[[divinidades/semidioses/semidioses-index|Semidioses]]
+
+[[divinidades/demonios/demonios-index|Demonios]]
+
