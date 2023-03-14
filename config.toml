@@ -1,4 +1,4 @@
-baseURL = "https://musrha.github.io/umbral/"
+baseURL = "https://umbral-beta.vercel.app/"
 languageCode = "es-es"
 relativeURLs = false
 disablePathToLower = true
