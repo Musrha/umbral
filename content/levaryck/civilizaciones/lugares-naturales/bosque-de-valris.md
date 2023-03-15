@@ -1,14 +1,16 @@
 ---
 title: "Bosque de Valris"
-tags: 
-- tag1
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 ![embedded image](https://assets.legendkeeper.com/65d7b38b-2165-4d72-9aaa-aa3804239719.jpg "Attachment")
 
-# **Bosque de Valris**
+# Bosque de Valris*
 
 **Localización:** Muy al este del Umbral.
 

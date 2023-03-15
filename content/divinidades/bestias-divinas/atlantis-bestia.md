@@ -1,11 +1,14 @@
 ---
 title: "Atlantis, Bestia-Ciudad"
 tags:
-- divinidades
-- bestias divinas
-- tag3
+  - divinidades
+  - bestias divinas
+  - tag3
+date: jueves, marzo 2º 2023, 1:17:28 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
-# **Bestia-Ciudad** [[levaryck/ruinas/atlantis|Atlantis]]
+
+# Bestia-Ciudad [[levaryck/ruinas/atlantis|Atlantis]]
 
 La Bestia Divina Atlantis es una medusa colosal, sumergida en el oceano, protegiendo de la presión aplastante del agua a la ciudad homonima que yace en su interior
 

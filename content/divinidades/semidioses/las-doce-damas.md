@@ -1,9 +1,11 @@
 ---
 title: "Las Doce Damas"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 Protectoras de Avalion, seres divinos de origen celestial, que antaño fundaron las Doce Casas que protegen y velan por la seguridad de la isla.

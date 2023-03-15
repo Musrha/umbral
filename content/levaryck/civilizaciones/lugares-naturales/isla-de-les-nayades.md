@@ -1,9 +1,11 @@
 ---
 title: "Isla de les Náyades"
-tags: 
-- tag1
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 La isla origen de les náyades es una ámplia isla con playas de fina arena, de mar poco profundo. La playa tiene medio barco roto en vertical. Un gran muro de roca se alza a cierta distancia de la playa. Si bien esta isla es su origen, hay náyades por todo Levaryck. Esta raza se ha tenido que esconder y vivir de forma primigenia y en sintonía con las aguas. No se suelen dejar ver mucho y suelen confundirse con otras criaturas de Levaryck. Si bien existen otras civilizaciones de náyades con contacto con otras razas, en esta isla se encuentra su origen, el cual apenas ha tenido contacto con el exterior.

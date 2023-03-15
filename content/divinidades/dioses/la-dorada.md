@@ -1,10 +1,13 @@
 ---
 title: "La Dorada"
 tags:
-- divinidades
-- Dioses
-- tag3
+  - divinidades
+  - Dioses
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 >[!quote]
 > _"La pequeña tiefling se marchó a dormir. Su madre, de rostro amoroso, le dio un beso y la arropó. Acto seguido, le contó un secreto. Su pequeña le dio un fuerte abrazo, para después contarle otro. Y entre los susurros de amor quedó impregnada la estrella de nuestra bondadosa Madre Dorada"_
 

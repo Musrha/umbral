@@ -1,10 +1,13 @@
 ---
 title: "Bestias Divinas"
 tags:
-- divinidades
-- bestias divinas
-- tag3
+  - divinidades
+  - bestias divinas
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 >[!quote]
 > _...Levarick se sostuvo sobre 3 grandes conceptos: el Océano, el Basalto y la Tormenta. Cada uno recibió sus representaciones. Del Océano, Las grandes Bestias divinas..._
 > 

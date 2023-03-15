@@ -1,9 +1,11 @@
 ---
 title: "La Ciudadela del Umbral"
 tags:
-- Levaryck
-- Localizaciones
-- Umbral
+  - Levaryck
+  - Localizaciones
+  - Umbral
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 ![embedded image](https://assets.legendkeeper.com/292d38dd-24e9-48c9-b952-b72e82444eb1.jpeg "Attachment")
 

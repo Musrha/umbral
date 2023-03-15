@@ -1,10 +1,12 @@
 ---
 title: "Gauda von Eigner"
 tags:
-- habitantes
-- umbral
-- maestros
-- duelistas arcanos
+  - habitantes
+  - umbral
+  - maestros
+  - duelistas arcanos
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 >[!quote]
 >_"¡Oh, ya veo! ¡Un bardo! Dime, dime, ¿te gusta la mar? ¿El sonido del abominable oleaje tratando de arrancarte el aliento en noches oscuras? ¿Te gusta el pillaje, la piratería y el sonido de los cañones? ¡Únete, pues, a mi tripulación!_ 

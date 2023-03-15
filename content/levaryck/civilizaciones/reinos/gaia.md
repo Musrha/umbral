@@ -1,10 +1,13 @@
 ---
 title: "Gaia"
 tags:
-- Civilizaciones
-- Reinos
-- tag3
+  - Civilizaciones
+  - Reinos
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 Región extensa, vasta y amplia, en la que diversos objetos han influenciado de forma sobrenatural en sus distintas ciudades, localizaciones y habitantes. Dichos artefactos se han denominado Fragmentos del Corazón de Gaia.
 
 (_Dato! Todos los episodios protagonizados por dichos artefactos tienen su nombre como título_)

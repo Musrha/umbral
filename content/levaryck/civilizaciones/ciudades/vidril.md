@@ -1,9 +1,11 @@
 ---
 title: "Cavernas de Cristal de Vidril" 
-tags: 
-- tag1 
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 **Localización:** Al norte del Bosque de Valdris. Antes de su creación, la zona era parte del propio bosque.

@@ -5,7 +5,7 @@ tags:
   - tag2
   - tag3
 date: viernes, marzo 3º 2023, 1:21:37 pm
-lastmod: miércoles, marzo 15º 2023, 10:44:44 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 En un bosque en el [[levaryck/civilizaciones/ciudades/matrilinaje-de-ekain|Matrilinaje de Ekain]] yacen los restos derruidos de un templo alto y primitivo.

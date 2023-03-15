@@ -1,9 +1,11 @@
 ---
 title: "La Inestabilidad" 
-tags: 
-- tag1 
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 A raíz del sobreuso indebido del Portal del Umbral, una concatenación de fallos y portales inestables, y la decadencia de las [[levaryck/construcciones/atalayas|Atalayas]], el Portal se encuentra actualmente “inestable”. Sigue funcionando igual que siempre, pero realizar el conjuro que lo abre es ligeramente mas complicado, por lo que los taumaturgos que quieran abrirlo tendrán que esforzarse un poco más hasta que suficientes Atalayas se hayan orientado hacia el pórtico de piedra.

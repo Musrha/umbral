@@ -1,10 +1,13 @@
 ---
 title: "Isla de Mon"
 tags:
-- Civilizaciones
-- Reinos
-- tag3
+  - Civilizaciones
+  - Reinos
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 **(Monshima, en su lengua autóctona)**
 
 **Localización**: Se trata de una isla hacia el este, en el otro extremo del mundo conocido.

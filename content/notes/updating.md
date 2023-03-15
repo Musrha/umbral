@@ -1,7 +1,8 @@
 ---
 title: "Updating"
-aliases:
-- update
+aliases: [update]
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 Haven't updated Quartz in a while and want all the cool new optimizations? On Unix/Mac systems you can run the following command for a one-line update! This command will show you a log summary of all commits since you last updated, press `q` to acknowledge this. Then, it will show you each change in turn and press `y` to accept the patch or `n` to reject it. Usually you should press `y` for most of these unless it conflicts with existing changes you've made! 

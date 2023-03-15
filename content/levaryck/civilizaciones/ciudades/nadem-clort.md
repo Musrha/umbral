@@ -1,9 +1,11 @@
 ---
 title: "Nadem Clort" 
-tags: 
-- tag1 
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 Pequeño poblado pesquero de medianos en el que su modo de vida pudiente se estaba viendo dañado por altísimas mareas que lo cubrían. Sus habitantes veneran a las lunaras, místicas bestias que habitaban en sus marismas. Las lunaras habían sido brutalizadas por los habitantes del pueblo para obtener un recurso mágico de su sangre, dejando a las crías en una caverna.

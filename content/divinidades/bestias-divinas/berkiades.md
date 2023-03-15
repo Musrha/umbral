@@ -1,11 +1,14 @@
 ---
 title: "Berkiades"
 tags:
-- divinidades
-- bestias divinas
-- tag3
+  - divinidades
+  - bestias divinas
+  - tag3
+date: jueves, marzo 2º 2023, 1:17:31 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
-## **Berkiades de las Cadenas Funestas.**
+
+## Berkiades de las Cadenas Funestas.
 
 Tras la traición de los mortales en la Guerra entre Ascendidos y Bestias Divinas todas estas castigaron a sus antiguos seguidores de diversas formas, esta inmensa bestia no fue diferente.
 

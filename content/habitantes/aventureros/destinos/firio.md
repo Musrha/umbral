@@ -1,10 +1,12 @@
 ---
 title: "Firio deBalamar" 
 tags:
-- habitantes
-- umbral
-- aventureros
-- duelistas arcanos
+  - habitantes
+  - umbral
+  - aventureros
+  - duelistas arcanos
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 ![embedded image](https://assets.legendkeeper.com/80743bcb-ef02-4128-98eb-f33f0bf9dbe4.png "Attachment")

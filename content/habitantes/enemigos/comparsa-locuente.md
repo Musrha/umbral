@@ -1,9 +1,11 @@
 ---
 title: "La Comparsa Locuente"
 tags:
-- Enemigos
-- Comparsa Locuente
-- Habitantes
+  - Enemigos
+  - Comparsa Locuente
+  - Habitantes
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 ![embedded image](https://assets.legendkeeper.com/d1954f72-5bba-43fc-a17d-d86a8fa4e5c5.jpg "Attachment")

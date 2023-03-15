@@ -1,9 +1,11 @@
 ---
 title: "Bosque de Butawood" 
-tags: 
-- tag1 
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 **Geografía:** El bosque de Bootawood es un bosque extenso al norte del Umbral, con muchos tipos de vegetación. Desde hayedos a pinares que se mezclan con las frías montañas que rodean gran parte del bosque y le sirven de frontera actual. Las grandes ciudades rompen con el paisaje de bosque denso y grande, formando una perfecta sincronía con el paisaje y ambiente natural; fruto de años de investigación y desarrollo dríade en fortificaciones y arquitectura.

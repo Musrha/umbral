@@ -1,9 +1,11 @@
 ---
 title: "Seguidora del Devorador del Ensueño"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 Se trata de una mujer humana de cabellos blancos, cuyos mechones se mueven como si tuviesen vida propia. Controla la línea entre la vigilia y el ensueño, rompiendo su realidad, por ello es capaz de moverse a través de los reflejos.

@@ -1,10 +1,13 @@
 ---
 title: "Civilizaciones"
 tags:
-- Civilizaciones
-- tag2
-- tag3
+  - Civilizaciones
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 # Civilizaciones
 
 ![embedded image](https://assets.legendkeeper.com/aa59bb46-b7ac-43c1-b896-0971a7ea4f5e.jpg "Attachment")

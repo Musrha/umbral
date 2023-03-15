@@ -1,9 +1,11 @@
 ---
 title: "Alegándria" 
-tags: 
-- tag1 
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: miércoles, marzo 15º 2023, 11:44:32 pm
 ---
 
 # **Alegándria**

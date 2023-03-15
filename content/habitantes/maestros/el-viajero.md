@@ -1,10 +1,12 @@
 ---
 title: "El Viajero"
 tags:
-- habitantes
-- umbral
-- maestros
-- coleccionistas
+  - habitantes
+  - umbral
+  - maestros
+  - coleccionistas
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 > [!quote]
 > _"Ah, entiendo... veo que no habéis venido aquí solamente por bagatelas y joyería... habéis venido por lo más valioso que poseo... historias. Cuentos, leyendas, rumores, coplas y poemas, ja, ja... Pues recordad que no vendo barato todo aquello que he oído en las mil y una civilizaciones. Vos diréis... ¿qué cuento queréis que os cuente?"_

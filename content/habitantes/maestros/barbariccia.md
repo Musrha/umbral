@@ -1,10 +1,12 @@
 ---
 title: "Barbariccia"
 tags:
-- habitantes
-- umbral
-- maestros
-- ladrones
+  - habitantes
+  - umbral
+  - maestros
+  - ladrones
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 >[!quote]
 > _"Antes de que preguntes si puedo hacerte un descuento, no, no puedo. Alguien tiene que pagar los gastos. Y procura que no te vea robando, aprendiz. Soy rápida lanzando dagas a las manos." - Barbariccia_

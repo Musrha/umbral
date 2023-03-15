@@ -1,10 +1,13 @@
 ---
 title: "Agni"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 ![embedded image](https://assets.legendkeeper.com/dbab40f0-12ff-45f6-a9f1-8427bc7a7881.png "Attachment")
 
 Agni von Zaid es un inmolador humano, proveniente de Cirskena. Su familia se tratan de comerciantes de clase media-alta, que daban mucha importancia a los modales, hasta llegar a cotas obsesivas. Un día, no pudo soportarlo más y, simplemente, explotó. Las llamas consumieron su brazo y se extendieron por la casa donde vivía. Huyó de ahí mientras todavía no habían apagado el fuego, para no volver. Estuvo mucho tiempo deambulando por el mundo, sin un rumbo preciso, y aprendiendo a usar sus habilidades. En estas, oyó hablar de Umbral por distintos sitios y se dirigió allí, esperando poder llamar al sitio "hogar".

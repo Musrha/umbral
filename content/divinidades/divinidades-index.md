@@ -1,9 +1,11 @@
 ---
 title: "Divinidades"
 tags:
-- divinidades
-- Índices
-- tag3
+  - divinidades
+  - Índices
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 >[!quote]

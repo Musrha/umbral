@@ -1,10 +1,13 @@
 ---
 title: "Glorius"
 tags:
-- Civilizaciones
-- Reinos
-- tag3
+  - Civilizaciones
+  - Reinos
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 Antiguo reino cuya prosperidad, poder y gloria se sustenta por medio de la esclavitud.
 
 ![embedded image](https://assets.legendkeeper.com/505ea07a-c5d0-459b-a17d-ea933b62a9ea.jpg "Attachment")

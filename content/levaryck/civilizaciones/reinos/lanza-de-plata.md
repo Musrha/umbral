@@ -1,10 +1,13 @@
 ---
 title: "Lanza de Plata"
 tags:
-- Civilizaciones
-- Reinos
-- tag3
+  - Civilizaciones
+  - Reinos
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 Reino en el que se celebra el baile de máscaras anual, al que acuden nobles de todo Levarick.
 
 ![embedded image](https://assets.legendkeeper.com/3a58fedd-8c4f-4155-8324-317cb87dc06c.jpg "Attachment")

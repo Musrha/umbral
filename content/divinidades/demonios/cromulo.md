@@ -1,9 +1,11 @@
 ---
 title: "Crómulo"
 tags:
-- divinidades
-- Comparsa Locuente
-- tag3
+  - divinidades
+  - Comparsa Locuente
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 ![embedded image](https://assets.legendkeeper.com/20035349-50de-40e7-b46f-5695f13666da.jpg "Attachment")

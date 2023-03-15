@@ -1,10 +1,12 @@
 ---
 title: "Viridio"
-tags: 
-- habitantes
-- umbral
-- maestros
-- magos
+tags:
+  - habitantes
+  - umbral
+  - maestros
+  - magos
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 >[!quote]
 >_Lo juro por lo que más amo en el mundo; por Cobalto, por Lila, por Luma. Lo juro por el Umbral"_

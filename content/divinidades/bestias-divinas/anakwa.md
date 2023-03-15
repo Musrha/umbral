@@ -1,9 +1,11 @@
 ---
 title: "Anakwa"
 tags:
-- divinidades
-- bestias divinas
-- tag3
+  - divinidades
+  - bestias divinas
+  - tag3
+date: jueves, marzo 2º 2023, 1:17:21 pm
+lastmod: miércoles, marzo 15º 2023, 10:55:31 pm
 ---
 
 ![embedded image](https://cdn.discordapp.com/attachments/992341565735440424/999027734216986624/TheNecromansa_Giant_serpent_god_with_poison_fang_andogrenus_per_324ba63f-3277-41ed-b248-64c375088f71.png "Attachment")

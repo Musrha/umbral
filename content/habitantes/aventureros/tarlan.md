@@ -1,9 +1,11 @@
 ---
 title: "Tarlan"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 ![embedded image](https://assets.legendkeeper.com/f5f8aea7-a3d3-4299-bf5a-1c644ccf73aa.jpg "Attachment")

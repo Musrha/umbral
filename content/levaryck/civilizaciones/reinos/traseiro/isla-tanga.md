@@ -1,10 +1,13 @@
 ---
 title: "Isla Tanga"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 Isla de aguas cristalinas en el Reino de [[levaryck/civilizaciones/reinos/traseiro/traseiro-index|Traseiro]], playas de arena fina y abundancia de palmeras. Los habitantes de Isla Tanga viven del turismo, pues es un lugar muy popular para descansar y tomarse unas vacaciones.
 
 **Geografía, flora y fauna:** Isla tanga es un resort de vacaciones. El más importante de todo Levaryck. Tiene un clima soleado, con buen tiempo a lo largo del año para atraer a turistas siempre que puedan. Sus playas de arena estás sembradas por cocoteros varios.

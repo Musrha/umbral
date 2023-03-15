@@ -1,7 +1,9 @@
 ---
 title: "Hosting with Docker"
 tags:
-- setup
+  - setup
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 If you want to host Quartz on a machine without using a webpage hosting service, it may be easier to [install Docker Compose](https://docs.docker.com/compose/install/) and follow the instructions below than to [install Quartz's dependencies manually](notes/preview%20changes.md).

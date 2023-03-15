@@ -1,9 +1,12 @@
 ---
 title: "Valle del Umbral"
 tags:
-- Civilizaciones
-- Umbral
+  - Civilizaciones
+  - Umbral
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 **Localización:** Valle del Umbral.
 
 **Geografía:** Una explanada montañosa de altos vientos y lluvias persistentes, con oscura vegetación y nudosos árboles de hoja perenne.

@@ -1,9 +1,11 @@
 ---
 title: "Villasustrato"
-tags: 
-- tag1
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 Villasustrato es una pequeña isla rodeada de una densa niebla mágica que la oculta y protege en el mar. Se trata de una isla apacible y muy humilde, en la que abundan los campos de cultivo, árboles frutales y una gran variedad de coloridos e inofensivos insectos. Sus habitantes son faunos, avianos y reptilianos muy peculiares, pues sus escamas, plumas o pelaje son extremadamente coloridos y vivos.
 

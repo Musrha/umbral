@@ -1,10 +1,12 @@
 ---
 title: "Jebedaya"
 tags:
-- habitantes
-- umbral
-- maestros
-- clérigos
+  - habitantes
+  - umbral
+  - maestros
+  - clérigos
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 > [!quote]
 > _"Ven. Acercate a la luz que no puedo ver. Dime, ¿cuales son tus heridas? Ah, entiendo. Bien, sin problema. Permíteme; sanaré tu cuerpo, pero mi magia no tiene potestad sobre tu mente"_

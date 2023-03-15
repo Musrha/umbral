@@ -1,10 +1,12 @@
 ---
 title: "Rodgal"
 tags:
-- habitantes
-- umbral
-- maestros
-- druidas
+  - habitantes
+  - umbral
+  - maestros
+  - druidas
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 ![embedded image](https://assets.legendkeeper.com/9a51fea9-7add-410f-a703-2f12030c0457.png "Attachment")
 

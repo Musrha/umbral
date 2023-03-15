@@ -1,8 +1,10 @@
 ---
 title: "Guardianes"
 tags:
-- Umbral
-- Lore
+  - Umbral
+  - Lore
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 > La conjura escarchada de Cobalto, la brujería purpúrea de Lila, el blanco destello de Luma y la verde vorágine de Viridio. Ojalá los hubieses visto, Jibada, cuando todavía caminaban entre nosotros. - Madre Jirina -

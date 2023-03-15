@@ -1,9 +1,11 @@
 ---
 title: "Daphne"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 ![embedded image](https://cdn.discordapp.com/attachments/899399440157257739/957399716524593162/Daphne.png "Attachment")

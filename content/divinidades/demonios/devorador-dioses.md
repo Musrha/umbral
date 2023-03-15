@@ -1,9 +1,11 @@
 ---
 title: "El Devorador de Dioses"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 Entidad que habita en el Bosque Oscuro y guardián del bazar que hay en el mismo. Se considera una transgresión el acceso de deidades en el bazar o canalizar poderes divinos en él. El Devorador se encarga de evitar dicha transgresión puesto que se alimenta de vínculos entre dioses patrones y sus devotos. Es capaz de devorar otros vínculos también.

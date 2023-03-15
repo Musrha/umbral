@@ -1,10 +1,13 @@
 ---
 title: "Gran Imperio de la Luna Roja"
 tags:
-- Civilizaciones
-- Reinos
-- tag3
+  - Civilizaciones
+  - Reinos
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 **Localización**: al noreste del Umbral, encima de la cordillera de montañas que les separa del Reino Divino de Hosemîn.
 
 **Historia**: Un Imperio antiguo y donde la relación feudal es fuerte. Tienen una gran extensión de terreno pero algo yerma, lo que les hacía una región relativamente pobre. Se decía que todas las minas quedaban en el lado de Hosemîn, pero al parecer recientemente han descubierto algo muy especial en su lado de las montañas, lo que está trayendo conflictos entre el Imperio y sus súbditos, que no quieren abandonar sus hogares ni dañar 'la piedra'.

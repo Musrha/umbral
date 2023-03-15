@@ -1,10 +1,12 @@
 ---
 title: "Anacardo"
 tags:
-- habitantes
-- umbral
-- maestros
-- bardos
+  - habitantes
+  - umbral
+  - maestros
+  - bardos
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 >[!quote]
 >_A lo lejos, en la taberna de [[habitantes/maestros/gurfid|Gurfid]], se escucha un vigoroso cántico que exalta los sentidos. Una voz dadivosa, de gran profundidad y marcado acento, perteneciente al bien conocido Bardo Anacardo. Sus plumas son rojas, carmesí como las llamas, y su pico, dorado como el aceite. Con sus elegantes ropajes de oscuro jubón y purpúrea capa danza y canta sobre la tarima, rasgando un gran laúd tallado a mano, a la vez que pisa con su pie derecho unos crótalos y con su hombro, un triángulo plateado._

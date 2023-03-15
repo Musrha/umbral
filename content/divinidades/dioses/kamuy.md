@@ -1,10 +1,13 @@
 ---
 title: "Los Kamuy"
 tags:
-- divinidades
-- Dioses
-- tag3
+  - divinidades
+  - Dioses
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
+
 Los Kamuy son una especie son espíritus de los animales según la religión. Los adoradores de los Kamuy suelen encontrarse en tribus cazadoras, por lo que todas las criaturas que cazan son especialmente importantes para ellos, al proporcionarles alimento, ropa y otros materiales.
 
 De entre los Kamuy, el Oso es una criatura especialmente relevante. En caso de encontrar una cría de oso sin su madre, se cuida al osezno. Es habitual que en las aldeas de sus adoradores existan altares de sacrificio a los dioses, los cuales suelen estar decorados con cráneos de oso.

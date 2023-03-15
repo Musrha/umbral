@@ -1,7 +1,9 @@
 ---
 title: "Habitantes"
 tags:
-- habitantes
+  - habitantes
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 > _Cada persona es única. Cada alma, compartida - Domminnic, borracho una mañana en la Otra Taberna._
 

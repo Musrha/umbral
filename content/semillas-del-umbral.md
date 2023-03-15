@@ -1,9 +1,11 @@
 ---
 title: "Semillas del Umbral"
 tags:
-- tag1
-- tag2
-- tag3
+  - tag1
+  - tag2
+  - tag3
+date: miércoles, marzo 15º 2023, 11:00:21 pm
+lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
 _Esta información está incompleta, y es posible que en algún punto sea errónea. Al fin y al cabo, es el principal misterio de la historia que se está creando, y lo que se sabe de ellas es muy poco. Tómese esta entrada como un dominio escrito por los aprendices, desde la escasa información que estos han podido recopilar, y siempre queda supeditado a la palabra de cualquier vijía o levilla_
