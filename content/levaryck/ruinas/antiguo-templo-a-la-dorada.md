@@ -6,7 +6,7 @@ tags:
 - tag3
 ---
 
-En un bosque en el [[levaryck/civilizaciones/ciudades/ekain|Martilinaje de Ekain]] yacen los restos derruidos de un templo alto y primitivo.
+En un bosque en el [[levaryck/civilizaciones/ciudades/matrilinaje-de-ekain|Matrilinaje de Ekain]] yacen los restos derruidos de un templo alto y primitivo.
   
 La piedra ahora desnuda ha sido reclamada por la naturaleza, pero todavía se mantienen tallados símbolos de la fe que se procesaba entre sus paredes.  
 Son representaciónes de La Dorada pero en lugar de una estrella de 8 puntas usan una de 7 como icono, lo que indica que se trata de una representación muy primitiva, un culto antepasado a los actuales seguidores de la Dorada.  
