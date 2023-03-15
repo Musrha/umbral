@@ -1,9 +1,11 @@
 ---
 title: "Antiguo templo a La Dorada" 
-tags: 
-- tag1 
-- tag2
-- tag3
+tags:
+  - tag1
+  - tag2
+  - tag3
+date: viernes, marzo 3º 2023, 1:21:37 pm
+lastmod: miércoles, marzo 15º 2023, 10:44:44 pm
 ---
 
 En un bosque en el [[levaryck/civilizaciones/ciudades/matrilinaje-de-ekain|Matrilinaje de Ekain]] yacen los restos derruidos de un templo alto y primitivo.
