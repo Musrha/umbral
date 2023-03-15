@@ -1,4 +1,4 @@
-baseURL = "https://umbral-beta.vercel.app"
+baseURL = "https://umbral-beta.vercel.app/"
 languageCode = "es-es"
 relativeURLs = false
 disablePathToLower = true
