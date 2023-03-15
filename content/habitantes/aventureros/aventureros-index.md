@@ -8,7 +8,7 @@ tags:
 
 [[habitantes/aventureros/destinos/destinos-index|Destinos]]
 
-[[habitantes/aventureros/destinos/osarios-index|Osarios]]
+[[habitantes/aventureros/osarios/osarios-index|Osarios]]
 
 >[!info]- Lista de Aventureros
 >
