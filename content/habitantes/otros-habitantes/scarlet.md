@@ -6,7 +6,7 @@ tags:
 - tag3
 ---
 
-_“Arcivo, me_ [aburro](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/clbw8n4p700060288rpv7gd0e/)_…“_
+_“Arcivo, me_ [[semillas-del-umbral|aburro]]_…“_
 
 Scarlet es una semilla del Umbral dada vida y persona. Con la forma de una niña pequeña, fue criada por una licántropa solo conocida como "La Abuelita".
 

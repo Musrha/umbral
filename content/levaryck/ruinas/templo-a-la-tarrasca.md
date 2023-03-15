@@ -10,4 +10,4 @@ Templo localizado en el interior de un volcán al norte de [[levaryck/civilizaci
 
 Habitado por kobolds, es el lugar de crianza de estas criaturas, lo cual ha llevado a diversas escaramuzas entre facciones para hacerse con el poder de este enclave.
 
-Fue el lugar de derrota de la [reina kobold](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cl5smd1sq008d0288xrd6f5k5/).
+Fue el lugar de derrota de la [[habitantes/enemigos/reina-kobold|reina kobold]].

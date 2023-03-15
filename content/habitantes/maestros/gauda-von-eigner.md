@@ -23,7 +23,7 @@ Maestra Duelista Arcana. Nacida en la isla mítica de [[levaryck/civilizaciones/
 
 ![embedded image](https://assets.legendkeeper.com/83b3befe-3b29-421d-8da7-f5088c9ffb57.png "Attachment")
 
-En algún momento de su vida se casó con Benjamin Von Eigner, un acaudalado noble de Cirksena y tío-abuelo de [Marqués Kaugh Von Eigner](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckz7fe7bc002l036cdf4mktff/), que estaba dilapidando su gran fortuna. Gauda se apropió de toda su riqueza para dilapidarla por sí misma.
+En algún momento de su vida se casó con Benjamin Von Eigner, un acaudalado noble de Cirksena y tío-abuelo de [[habitantes/aventureros/destinos/kaugh|Marqués Kaugh Von Eigner]], que estaba dilapidando su gran fortuna. Gauda se apropió de toda su riqueza para dilapidarla por sí misma.
 
 Mucho más adelante, Gauda fue apresada por algún motivo en la Torre del Infierno, una prisión sin ley ubicada en algún punto del [[levaryck/civilizaciones/lugares-naturales/largodesierto-de-ykrea|Largodesierto de Ykrea]]. Tras una intervención de la [Hermandad Custodia del Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw9rh8iy001z036c9lsfyugo/), Gauda fue liberada.
 
@@ -31,4 +31,4 @@ Acompañada por Bianka, una musculosa enana con problemas de sinceridad a la que
 
 Por algún motivo, se niega a regresar a [[la-ciudadela-del-umbral|La Ciudadela del Umbral]].
 
-Aunque se le suele ver portando dos espadas, pocos la han visto utilizar ambas simultáneamente. Porta siempre la misma espada para su mano diestra, aunque suele cambiar la que utiliza con la zurda. En una ocasión regaló una de sus espadas a [Thuridan Sylmenor](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckz7fel7d002q036cokzaco4b/).
+Aunque se le suele ver portando dos espadas, pocos la han visto utilizar ambas simultáneamente. Porta siempre la misma espada para su mano diestra, aunque suele cambiar la que utiliza con la zurda. En una ocasión regaló una de sus espadas a [[habitantes/aventureros/destinos/thuridan|Thuridan Sylmenor]].

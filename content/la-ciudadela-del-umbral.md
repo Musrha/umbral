@@ -59,6 +59,6 @@ _Percival, Arthur, Izar, Elianor y Kaugh en un viaje al pasado durante La Caída
 
 -   Desde lo alto, un único rayo del tamaño de la Ciudadela entera alcanzó y destruyó prácticamente la totalidad de la torre.
 
--   Los [[ascendidos|Ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[habitantes/aventureros/aventureros-index|Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
+-   Los [[habitantes/ascendidos|Ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[habitantes/aventureros/aventureros-index|Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
 
 -   Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck/levaryck-index|Levaryck]] donde estar a salvo.

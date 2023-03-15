@@ -7,4 +7,4 @@ tags:
 ---
 
 
-Oculta bajo la ciudadela, [Tábala](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cl5smq2b5008i0288oyrvzgxs/) la cuida junto a Campanilla, ya retirada, mientras arriba en la superficie los aprendices reconstruyen la fortaleza.
+Oculta bajo la ciudadela, [[habitantes/maestros/tabala|Tábala]] la cuida junto a [[habitantes/aventureros/destinos/campanilla|Campanilla]], ya retirada, mientras arriba en la superficie los aprendices reconstruyen la fortaleza.

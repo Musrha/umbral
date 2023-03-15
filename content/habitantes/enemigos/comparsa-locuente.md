@@ -16,7 +16,7 @@ La Comparsa se compone de conjuntos de caravanas, siempre de cinco a ocho coches
 
 La Comparsa es temida y amada en diferentes sitios de Levaryck; algunos dicen que reparte dicha, suerte e incluso dinero. Otros, que los horrores que porta en sus caravanas son abominables, que raptan, asesinan y rompen.
 
-Su líder es [[baltasar|Báltasar]], de quien poco se sabe. Nunca nadie de fuera le ha visto, y los miembros de la Comparsa se relacionan siempre a través de otros jefes menores que llevan las caravanas.
+Su líder es [[habitantes/enemigos/baltasar|Báltasar]], de quien poco se sabe. Nunca nadie de fuera le ha visto, y los miembros de la Comparsa se relacionan siempre a través de otros jefes menores que llevan las caravanas.
 
 La Comparsa actúa en todo el territorio circundante a [[levaryck/civilizaciones/reinos/cirksena|Cirksena]] sobre todo, aunque se han mostrado algunas de estas Caravanas en otros sitios.
 

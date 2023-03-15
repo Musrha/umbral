@@ -16,7 +16,7 @@ Los hogares de los Faunales, todos ellos creados con artesanía detallista de la
 
 # Origen
 
-Cuencaférrea fue “abierta” o creada por el maestro Viridio cuando los [[guardianes|Guardianes]] buscaban nuevos lugares por explorar de [Levaryck](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckwl6ccs4000a036cbm61llf5/).
+Cuencaférrea fue “abierta” o creada por el maestro Viridio cuando los [[guardianes|Guardianes]] buscaban nuevos lugares por explorar de [[levaryck/levaryck-index|Levaryck]].
 
 Viridio alcanzó los picos elevados sobre el mar, y sobre ellos, una criatura ahogada, dolida y sangrante; un faunal, probablemente un maldito y olvidado vestigio de un fauno. El mago abrió la cuenca y le otorgó los cuatro Dones. Le entregó la región y creó suficientes seres como para que se reprodujeran y vivieran.
 

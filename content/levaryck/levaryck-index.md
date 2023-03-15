@@ -20,7 +20,7 @@ Se dice que su nombre proviene de la fusión de tres nombres de grandes fundador
 
 > _No hay cartógrafo capaz de conmensurar las dimensiones de este Mundo, ni línea temporal que pueda unir todos los momentos, ni historiador que cuente todas las historias, Sagreo. Y sin embargo, tuve la suerte de coincidir con tu mismo lugar, tu mismo instante y tu misma historia - Nila -_
 
-El Mundo de Levaryck es uno entre los infinitos Mundos que conforman el [Multiverso](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx0w2ji9000j036cusjioq43/), un entramado de historias en diferentes Mundos entrelazados. Existen conexiones entre ellos, como [La noche de Nébula](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cky5yupsb0002037cy19zwb0z/) o [El Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw8bf0j2000b036cl8v1y9de/), que nos transportan a otras historias.
+El Mundo de Levaryck es uno entre los infinitos Mundos que conforman el [Multiverso](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckx0w2ji9000j036cusjioq43/), un entramado de historias en diferentes Mundos entrelazados. Existen conexiones entre ellos, como [[levaryck/eventos/noche-de-nebula|La noche de Nébula]] o [El Umbral](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckw8bf0j2000b036cl8v1y9de/), que nos transportan a otras historias.
 
 ## Disposición
 

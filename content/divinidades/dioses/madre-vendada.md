@@ -21,4 +21,4 @@ Hay quien reniega de la Madre Vendada por su falta de criterio; en algunas guerr
 
 Hay un augurio que se repite en Levaryck; **teme a las vendas sangrantes**. Pese a que no muchos conocen su significado, se asocia a un terror que afecta a la visión del mismísimo concepto de la sanación, presentando su contraparte más terrible; una herida que no sana, un mal que no puede curarse, un dolor que no puede ser tapado por vendas. Algunos clérigos de largas campañas bélicas asocian este concepto a una respuesta traumática a no poder salvar suficientes vidas, o a la vacuidad de los intentos por curar a gente que se cubre de muerte. Otros encuentran, sin buscarlo, un significado más desolador.
 
--   Devotos reconocidos en Umbral: [[habitantes/aventureros/hugo|Hugo Montebello]]; [Discala, de la Vieja Elegía](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cl5skhomp00380288bsqgqbrw/)
+-   Devotos reconocidos en Umbral: [[habitantes/aventureros/hugo|Hugo Montebello]]; [[levaryck/construcciones/rompetormentas|Discala, de la Vieja Elegía]]

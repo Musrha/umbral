@@ -12,4 +12,4 @@ Espíritu de la tiranía de los reyes de la [[levaryck/civilizaciones/reinos/glo
 
 Creador de los [[habitantes/enemigos/devoramentes|Devoramentes]]
 
-Atormentó a [[habitantes/aventureros/arcadio|Arcadio]] durante un tiempo, al hacer un pacto con él
+Atormentó a [[habitantes/aventureros/destinos/arcadio|Arcadio]] durante un tiempo, al hacer un pacto con él

@@ -5,6 +5,7 @@ tags:
 - tag2
 - tag3
 ---
+
 _Esta información está incompleta, y es posible que en algún punto sea errónea. Al fin y al cabo, es el principal misterio de la historia que se está creando, y lo que se sabe de ellas es muy poco. Tómese esta entrada como un dominio escrito por los aprendices, desde la escasa información que estos han podido recopilar, y siempre queda supeditado a la palabra de cualquier vijía o levilla_
 
 Poderosos artefactos, dispersos por Levaryck, cuya utilidad principal (según conocimiento general de los aprendices) es la de dar poder al Umbral y definir las coordenadas de hacia donde debe conectar cada portal que se abre. Actualmente, según registros públicos, se conoce de la existencia de 8 semillas, y el paradero de la mayoría de ellas:

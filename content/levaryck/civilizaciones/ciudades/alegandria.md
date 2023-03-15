@@ -26,6 +26,6 @@ El tiempo la aisló por las distancias a las urbes más centristas. Hace tiempo,
 
 Eventualmente, un inmenso dragón llamado El Barón, se instaló en una gigantesca mansión no muy lejos del lugar. A cambio de proteger a Alegandria de las criaturas, recibía ofrendas y diferentes regalos. Los motivos del Barón de asentarse en un lugar tan concreto son desconocidos, aunque las ruinas cercanas pueden hacer sospechar.
 
-Una de las [Gorgonas](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckzodn022001z036cznia8tj8/), con el objetivo de atraer a los aprendices del Umbral, instauró su Infestación de Serpientes en el castillo, petrificando al Barón y asesinando al servicio. Los aprendices le dieron muerte y robaron su colgante _(cap.17 - El día que el dragón se arrodilló)._
+Una de las [[habitantes/enemigos/gorgonas|Gorgonas]], con el objetivo de atraer a los aprendices del Umbral, instauró su Infestación de Serpientes en el castillo, petrificando al Barón y asesinando al servicio. Los aprendices le dieron muerte y robaron su colgante _(cap.17 - El día que el dragón se arrodilló)._
 
 Desde entonces, el Barón sigue sirviendo como protector de Alegándria y la Muerte Descendente no ataca la ciudad.

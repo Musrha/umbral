@@ -8,4 +8,4 @@ tags:
 
 (Próximamente)
 
-[[galatea|Galatea, la Herrera Legendaria]]
+[[habitantes/otros-habitantes/galatea|Galatea, la Herrera Legendaria]]

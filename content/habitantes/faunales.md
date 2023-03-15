@@ -13,7 +13,7 @@ _Jibón, uno de los Faunales de_ [[levaryck/construcciones/cuencaferrea|Cuencaf�
 
 Los Faunales son unos seres similares a faunos, pero mucho más altos y estirados. Sus piernas y brazos son largos prácticamente el doble que las extremidades proporcionales habituales, aunque el cuerpo es más o menos del mismo tamaño. Además sus piernas se dividen en tres segmentos con flexiones distinguidas.
 
-Sus cuernos son muy, muy largos y enroscados entre ellos, como si de grotescas ramas se tratase, en nudos disformes pero muy, muy resistentes. El material, de hecho, sirvió para hacer una armadura a [Arthur Fredderic de Lionhart](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckz7fa5dx000t036cztrj369k/).
+Sus cuernos son muy, muy largos y enroscados entre ellos, como si de grotescas ramas se tratase, en nudos disformes pero muy, muy resistentes. El material, de hecho, sirvió para hacer una armadura a [[habitantes/aventureros/osarios/arthur|Arthur Fredderic de Lionhart]].
 
 Los Faunales hablan de manera extraña, como si sus cuerdas vocales no estuviesen hechas para proferir verdaderos sonidos, pero hubiesen sido alteradas para generar palabras. Son seres afables, pacíficos y cariñosos, aunque algunos son negacionistas de los dones del gran Viridio.
 

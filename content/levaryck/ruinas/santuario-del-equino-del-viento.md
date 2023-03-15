@@ -30,10 +30,10 @@ Se cree que es una de las muchas ruinas de los [[habitantes/sachoa|Sachoa]], tie
 
 En el interior habita [[divinidades/bestias-divinas/auro|Auro]], una de las [[divinidades/bestias-divinas/bestias-divinas-index|Bestias Divinas]], un gran Kelpie de aire conformado por miles de otros equinos de viento. No se sabe desde hace cuanto que la Bestia habita allí.
 
-Antaño, [Hosemîn, el Rey del Hierro](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckzoec6ua004i036c3lh8hk7v/) encontró el Santuario en uno de sus múltiples viajes. Parece ser que allí conoció la muerte, oxidándose en aquél lugar al que había llegado empleando el Sextante del Origen, ya cubierto de óxido. Su presencia y aquél óxido corrompieron a Auro, dañando su extremidad y atrapando a la Bestia en la caverna.
+Antaño, [[divinidades/semidioses/hosemin-rey|Hosemîn, el Rey del Hierro]] encontró el Santuario en uno de sus múltiples viajes. Parece ser que allí conoció la muerte, oxidándose en aquél lugar al que había llegado empleando el Sextante del Origen, ya cubierto de óxido. Su presencia y aquél óxido corrompieron a Auro, dañando su extremidad y atrapando a la Bestia en la caverna.
 
 El óxido de Hosemîn se extendió, tomando en los alrededores la forma de unos minúsculos parásitos amarillos que habitaron en sapos y kelpies. Es probable que fuese la causa de la extinción de los habitantes de aquél templo.
 
 Se piensa que El Barón, el gobernante de Alegándria, se instaló cerca para poder vigilar las ruinas, o quizá encontrarlas.
 
-Los aprendices del Umbral recogieron el Sextante por orden de la Guardiana, y [Hirt Zarzanueva](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/ckz7fcxbr0022036ce8g4sqyb/) liberó a Auro, tomando la Forma del Viento. Auro abandonó entonces el Santuario, ya liberado, y el espíritu de Hosemîn les pidió que “encontraran a los demás”. _(cap.72 - Quitándole hierro al asunto)._
+Los aprendices del Umbral recogieron el Sextante por orden de la Guardiana, y [[habitantes/aventureros/hirt|Hirt Zarzanueva]] liberó a Auro, tomando la Forma del Viento. Auro abandonó entonces el Santuario, ya liberado, y el espíritu de Hosemîn les pidió que “encontraran a los demás”. _(cap.72 - Quitándole hierro al asunto)._
