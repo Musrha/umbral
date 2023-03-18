@@ -54,7 +54,9 @@ Dominado a la perfección, el Umbral permite el teletransporte absoluto; es deci
 
 Se sabe que el funcionamiento del Umbral ha ido cambiando a lo largo de las eras, como sugirió Galatea, la Herrera Legendaria.
 
-> _¿Brazalete? ¿Ahora funciona así? - Galatea, Cap.16 - El legado de la Forja_
+> [!quote]
+> _¿Brazalete? ¿Ahora funciona así?_
+> \- Galatea, Cap.16, El legado de la Forja
 
 Es posible que antaño fuese más libre o más restrictivo, pero no se tienen datos de ello. Se sabe que los [[guardianes|Guardianes]] aprendieron a usarlo a un nivel mucho mayor que el actual.
 

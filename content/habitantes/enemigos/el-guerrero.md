@@ -1,5 +1,5 @@
 ---
-title: "el-guerrero"
+title: "El Guerrero"
 tags:
   - tag1
   - tag2
@@ -27,6 +27,6 @@ lastmod: jueves, marzo 16º 2023, 12:34:43 am
 > 
 > \- Testimonio de Dancred, un soldado de Nyoss
 
-[(Constelaciones?)](https://www.legendkeeper.com/app/ckvil5g57t6310808rct5ktxd/cldc64csd000302888hk0ti5x/)
+[[lore-profundo/magia/constelaciones|(Constelaciones?)]]
 
 ![embedded image](https://assets.legendkeeper.com/88fbb035-1ef9-4834-9398-4d4f958e7b6a.jpg "Attachment")

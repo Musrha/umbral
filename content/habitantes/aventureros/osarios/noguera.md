@@ -12,7 +12,7 @@ Noguera es dríade alegre y bonachón, de estatura media y complexión fuerte. C
 
 Nació en Yrukupa, en lo más profundo de sus bosques. No conoció a sus padres, pero tampoco parece importarle mucho.
 
-Tras dedicar la mayoría de la vida a la comunión con la naturaleza, descubrió que había algo más. Así es como entro en contacto con Nissa, quien recompensó dicha dedicación con los poderes de clérigo que ahora porta.
+Tras dedicar la mayoría de la vida a la comunión con la naturaleza, descubrió que había algo más. Así es como entro en contacto con [[divinidades/dioses/nissa]]|Nissa], quien recompensó dicha dedicación con los poderes de clérigo que ahora porta.
 
 Cosas pasaron, pactos fueron rotos... Y Noguera perdió esas habilidades.
 

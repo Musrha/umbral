@@ -32,7 +32,7 @@ Sacrificio e Inmortalidad : por y con Amor. No está muerto lo que puede yacer e
 
 _Unas palabras de_ [[habitantes/aventureros/destinos/firio|Firio deBalamar]]:
 
-La conciencia, el alma, el ser, nunca mueren, solo cambia. Si algo estoy seguro es que él, Axucory traerá la vida y el bien haya donde Nissa le guie. Ojala se hubiera quedado mas tiempo con nosotros.
+La conciencia, el alma, el ser, nunca mueren, solo cambia. Si algo estoy seguro es que él, Axucory traerá la vida y el bien haya donde [[divinidades/dioses/nissa|Nissa]] le guie. Ojala se hubiera quedado mas tiempo con nosotros.
 
 _Unas palabras de Shoutile:_
 
