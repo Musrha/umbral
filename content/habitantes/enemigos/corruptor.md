@@ -7,11 +7,8 @@ tags:
 date: miércoles, marzo 15º 2023, 11:00:21 pm
 lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
-El Corruptor
-============
 
-Main
-----
+![Corruptor](https://assets.legendkeeper.com/b4f0bc1c-cb29-4b96-84a1-7005063aad97.png)
 
 >[!quote]
 >_Malenon, respondiste ocho preguntas mías hace 10 horas. Y ahora vas a morir._
