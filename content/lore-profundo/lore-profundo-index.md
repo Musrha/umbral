@@ -17,5 +17,5 @@ Más allá de todo lo que es tangible, más lejos de cualquier Civilización, to
 Disponte con bravura a leer lo que en ellas se cuenta. Pues más allá de las sesiones aleatorias, más allá de las semillas improvisadas, más allá de cuenetos que contamos se esconde una profunda trama enredada… Y más allá de ese Lore Profundo, estás tú.
 
 > [!info]-
-> [[lore-profundo/guardianes-equilibrio/guardianes-equilibrio-index||Guardianes del Equilibrio]], [[lore-profundo/magia/magia-index|Magia]], [[lore-profundo/multiverso/multiverso-index|Multiverso]], [[lore-profundo/historia-levaryck|La Historia de Levaryck]], [[lore-profundo/reino-ensueño|El Reino del Ensueño]]
+> [[lore-profundo/guardianes-equilibrio/guardianes-equilibrio-index|Guardianes del Equilibrio]], [[lore-profundo/magia/magia-index|Magia]], [[lore-profundo/multiverso/multiverso-index|Multiverso]], [[lore-profundo/historia-levaryck|La Historia de Levaryck]], [[lore-profundo/reino-ensueño|El Reino del Ensueño]]
 
