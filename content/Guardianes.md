@@ -21,7 +21,7 @@ Cobalto
 
 Cobalto, Maestro Gélido del Umbral, Elementalista Supremo, El Frío Constructor, Viajero Insomne, Celador de los Antiguos, la Mano Fría de la Imparcialidad y Albatros de Luz.
 
-[[Cobalto]], cuya estatua muestra un bello y bravo guerrero de armadura de caballero, una augusta capa a su espalda y un báculo con un albatros sobre él.
+Cobalto, cuya estatua muestra un bello y bravo guerrero de armadura de caballero, una augusta capa a su espalda y un báculo con un albatros sobre él.
 
 Según cuenta, fue un poderosísimo elementalista, capaz de crear y dirigir miles de gólems de aire y hielo y Señor de un Castillo en las gélidas tierras, ahora perdido.
 
@@ -43,7 +43,7 @@ Lila
 
 Lila, Maestra del Velo Purpúreo, la Primera Cazamonstruos, Matriarca de los Desdichados, la Hoja del Único Metal, Viajera de Mundos y la Efímera Llama.
 
-[[Lila]], cuya estatua muestra una firme mujer de armadura ligera, una larga espada en las manos y una más corta a la espalda, de largos cabellos y un colgante con la cabeza de un zorro.
+Lila, cuya estatua muestra una firme mujer de armadura ligera, una larga espada en las manos y una más corta a la espalda, de largos cabellos y un colgante con la cabeza de un zorro.
 
 Según se cuenta, se encontró con los demás Maestros cuando éstos hallaron el Umbral, salvándoles de misteriosos monstruos y uniéndose a ellos. Se cuenta que vino a través del Umbral desde otro mundo, pero no se tiene constancia.
 
