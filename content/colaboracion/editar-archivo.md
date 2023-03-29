@@ -5,7 +5,6 @@ tags:
   - colaboracion
 date: miércoles, marzo 29º 2023, 11:40:33 am
 lastmod: miércoles, marzo 29º 2023, 11:40:53 am
-draft: true
 ---
 
 # 1. Editar un archivo existente
@@ -24,4 +23,4 @@ Desde ahí, puedes editar cuanto quieras. Recomendamos que trates de seguir la G
 
 ![[images/tutorial3.jpg]]
 
-Y ya está. Una vez lo hayas enviado, el **pull request** quedará pendiente para que uno de los colaboradores del Pacto lo revise y acepte. Una vez lo haga, [[habitantes/otros-habitantes/guifre|Guifré]] y el resto de obreros de [[levaryck/civilizaciones/ciudades/billalmedio|Billalmedio]] actualizarán la Wiki automáticamente en unos minutos.
+Y ya está. Una vez lo hayas enviado, el *pull request* quedará pendiente para que uno de los colaboradores del Pacto lo revise y acepte. Una vez lo haga, [[habitantes/otros-habitantes/guifre|Guifré]] y el resto de obreros de [[levaryck/civilizaciones/ciudades/billalmedio|Billalmedio]] actualizarán la Wiki automáticamente en unos minutos.

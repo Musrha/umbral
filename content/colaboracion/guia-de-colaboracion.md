@@ -5,7 +5,6 @@ tags:
   - colaboracion
 date: miércoles, marzo 29º 2023, 10:56:59 am
 lastmod: miércoles, marzo 29º 2023, 10:57:34 am
-draft: true
 ---
 
 # Guía de Colaboración
