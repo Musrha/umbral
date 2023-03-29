@@ -14,7 +14,7 @@ lastmod: jueves, marzo 16º 2023, 12:34:43 am
 
 
 ![](images/Viridio.png)
-**Viridio fue uno de los_** Cuatro [[Guardianes]] del Umbral **en su creación hace 1000 años, y actualmente, el Maestro Mago de la Hermandad.** Se trata de un hombre anciano, encorvado y delgado, de largos cabellos greñosos y barbas desaliñadas con algunas ramas y hojas pendiendo de ellas. Viste con una larga túnica verde y ropajes sencillos.
+**Viridio fue uno de los** Cuatro [[Guardianes]] del Umbral **en su creación hace 1000 años, y actualmente, el Maestro Mago de la Hermandad.** Se trata de un hombre anciano, encorvado y delgado, de largos cabellos greñosos y barbas desaliñadas con algunas ramas y hojas pendiendo de ellas. Viste con una larga túnica verde y ropajes sencillos.
 
 **Viridio es un Mago de la Vorágine, un dominio de la magia que solamente él conoce y domina.** Algunos dicen que la creó, y otros, que proviene de otro lugar. La Vorágine es poderosa, pero muy peligrosa, y nadie debería usarla si no es por el mayor de los bienes.
 
