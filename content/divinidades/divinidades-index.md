@@ -32,5 +32,5 @@ Podrían dividirse en tres grandes grupos; Dioses, Semidioses y Demonios.
 
 [[divinidades/semidioses/semidioses-index|Semidioses]]
 
-[[divinidades/demonios/demonios|Demonios]]
+[[divinidades/demonios/demonios-index|Demonios]]
 
