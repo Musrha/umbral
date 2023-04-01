@@ -22,8 +22,8 @@ No abandonaría su misión, seguiría defendiendo a los débiles allá donde lo 
   - A Alex le dejó una botella de Ratafia, una botella parecida a la que Alex dejo en la boca de un dragón tortuga y tiempo después le salvó la vida, como agradecimiento.
   - A Shoutile le dejó picoteo de Saldun, duro como una piedra tras tanto tiempo, pero seguía estando sabroso, probablemente su lobo aprecio roerlo, para que no olvide que las apariencias pueden engañar.
   - A Chad le entregó una astilla de madera que perteneció a Kastrok, un bien muy querido de Firio, para que le de la fuerza y el corazón de un héroe.
-  - A Elaik le dejó las firmas del elenco de ópera de Vinneberg, para que la acompañe la belleza de su hogar.
-  - A Eileanar le dejó una piedra del mausoleo de la dama Dalilah Aseth, para que recuerde que hay que tener cuidado con corromper el orden natural
+  - A [[habitantes/aventureros/destinos/elaik|Elaik]] le dejó las firmas del elenco de ópera de Vinneberg, para que la acompañe la belleza de su hogar.
+  - A [[habitantes/aventureros/eileanar|Eileanar]] le dejó una piedra del mausoleo de la dama Dalilah Aseth, para que recuerde que hay que tener cuidado con corromper el orden natural
   - A Dobek le dejó un traje de ninja de isla piedra, para que le ayude a evitar los problemas.
   - A Kastrok, Axucory, Arthur y Cristane sólo les pudo colocar en sus osarios una rosa iluminada por la luz morada de los titanes y el deseo de que encuentren la paz de Nissa allá donde se encuentren.
 

@@ -9,7 +9,7 @@ date: miércoles, marzo 15º 2023, 11:00:21 pm
 lastmod: jueves, marzo 16º 2023, 12:34:43 am
 ---
 
-![embedded image](https://assets.legendkeeper.com/a375b8a3-bd82-4cfa-9ee1-4f29ce41f87d.png "Attachment")
+![[images/Ofie.png]]
 
 Ofiuccia Merrysol, mas conocida como Ofie es una tiefling de piel amarillas y pecas celestes.  
 Ferbiente seguidora de [[divinidades/dioses/la-dorada|La Dorada]], desarrolló el oficio de Cleriga hasta que nadie en su pequeña e inexperta congregación pudo enseñarle mas.  
