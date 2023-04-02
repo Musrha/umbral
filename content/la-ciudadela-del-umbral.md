@@ -38,7 +38,10 @@ Actualmente, la Ciudadela del Umbral, o eso se cree, está destruida, siendo las
 
 # **La caída de la Ciudadela**
 
-> _El estruendo acompañó al Rayo, a la Ventisca, al Maremoto y al Meteoro. Y todo se volvió caos, destrucción, y dolor. Algunos escapamos… pero volveremos. Volveremos al Umbral - Senaca, Aventurero del Umbral -_
+> [!quote]
+> 
+> _El estruendo acompañó al Rayo, a la Ventisca, al Maremoto y al Meteoro. Y todo se volvió caos, destrucción, y dolor. Algunos escapamos… pero volveremos. Volveremos al Umbral_
+> \- Senaca, Aventurero del Umbral
 
 Hace unos novecientos años, un evento sucedió. Nadie recuerda, tiene constancia, conoce ni es capaz de adivinar qué fue lo que causó la Caída de la Ciudadela del Umbral. Un día se alzaba en el conocimiento de todo el mundo… y al siguiente había desaparecido. Miles de aprendices, aventureros y familias que allí habitaban murieron en cuestión de minutos, si no segundos.
 
@@ -48,20 +51,20 @@ Sin embargo, hay algunos hechos que son de dominio público en el Umbral; cierto
 
 _Percival, Arthur, Izar, Elianor y Kaugh en un viaje al pasado durante La Caída de la Ciudadela cap.73 - Una baya roja_
 
--   El cielo estaba especialmente oscuro aquella noche, con inmensas nubes negras arremolinándose en lo alto de la torre que coronaba la Ciudadela. A lo lejos se escuchaba el rugido de los truenos.
+-  El cielo estaba especialmente oscuro aquella noche, con inmensas nubes negras arremolinándose en lo alto de la torre que coronaba la Ciudadela. A lo lejos se escuchaba el rugido de los truenos.
 
--   En el Umbral estaba aconteciendo una gran fiesta, celebrando el Aniversario de la creación del Umbral.
+-  En el Umbral estaba aconteciendo una gran fiesta, celebrando el Aniversario de la creación del Umbral.
 
--   De pronto, desde lo alto, un gran rugido, una detonación sin precedentes, como un rayo que cruzase el mundo al completo alertó a todos los habitantes de la Ciudadela.
+-  De pronto, desde lo alto, un gran rugido, una detonación sin precedentes, como un rayo que cruzase el mundo al completo alertó a todos los habitantes de la Ciudadela.
 
--   Del cielo comenzaron a caer fragmentos de fuego sólido, meteoritos que derribaron las torres y destruyeron los brillantes hogares. La tierra comenzó a quebrarse con terremotos superiores a cualquier defensa mágica. El cielo cayó en forma de truenos y descargas fulminantes.
+-  Del cielo comenzaron a caer fragmentos de fuego sólido, meteoritos que derribaron las torres y destruyeron los brillantes hogares. La tierra comenzó a quebrarse con terremotos superiores a cualquier defensa mágica. El cielo cayó en forma de truenos y descargas fulminantes.
 
--   Una sombra de Luz y Oscuridad descendía desde lo alto, destruyendo la Ciudadela y arrasando torres y murallas. Constantemente descendía y volvía a las oscuras nubes.
+-  Una sombra de Luz y Oscuridad descendía desde lo alto, destruyendo la Ciudadela y arrasando torres y murallas. Constantemente descendía y volvía a las oscuras nubes.
 
--   Sin saber de dónde, la Ciudadela se llenó de monstruos, grandes criaturas de grotescas formas que escupían rayos purpúreos que se dividían en el espectro cromático y hacían desaparecer a los demás aprendices surgieron de las sombras.
+-  Sin saber de dónde, la Ciudadela se llenó de monstruos, grandes criaturas de grotescas formas que escupían rayos purpúreos que se dividían en el espectro cromático y hacían desaparecer a los demás aprendices surgieron de las sombras.
 
--   Desde lo alto, un único rayo del tamaño de la Ciudadela entera alcanzó y destruyó prácticamente la totalidad de la torre.
+-  Desde lo alto, un único rayo del tamaño de la Ciudadela entera alcanzó y destruyó prácticamente la totalidad de la torre.
 
--   Los [[habitantes/ascendidos|Ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[habitantes/aventureros/aventureros-index|Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
+-  Los [[habitantes/ascendidos|Ascendidos]] que no fallecieron en su ascenso a la torre y aquellos [[habitantes/aventureros/aventureros-index|Aventureros]] que pudieron desplazarse rápido se llevaron consigo a los supervivientes que pudieron reunir, sacándoles de más allá de los muros.
 
--   Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck/levaryck-index|Levaryck]] donde estar a salvo.
+-  Una dríade abrió el Umbral, manteniéndolo abierto para que cualquiera cruzase a otro lugar de [[levaryck/levaryck-index|Levaryck]] donde estar a salvo.
